@@ -1,0 +1,783 @@
+{
+ "cutoff": 3,
+ "slots": 107,
+ "questions": [
+  {
+   "id": "945a9600e6",
+   "topic": "likely",
+   "q": "Which of the following is NOT a criterion for horizontal devolution of central taxes among states under the 16th Finance Commission (Chairman: Arvind Panagariya) for 2026-31?",
+   "answer": "Tax and fiscal effort",
+   "explanation": "PRS summary of the 16th FC report, tabled 1 Feb 2026: states' share stays at 41%. 'Tax and fiscal effort' (2.5% under the 15th FC) was dropped, and the new 'contribution to GDP' criterion gets 10%. Income distance is 42.5%, population 17.5%, and demographic performance, area and forest are 10% each."
+  },
+  {
+   "id": "76e1ff4c4e",
+   "topic": "likely",
+   "q": "The India-UK Comprehensive Economic and Trade Agreement (CETA) came into force on 15 July 2026. Which other India-UK agreement took effect on the same day?",
+   "answer": "Double Contribution Convention",
+   "explanation": "DD India/PIB, Jul 2026: CETA and the Double Contribution Convention (the social security pact) both took effect on 15 Jul 2026. CETA gives duty-free access to about 99% of India's exports to the UK."
+  },
+  {
+   "id": "cb80938f8d",
+   "topic": "likely",
+   "q": "Where did India finish in the medal table at the 2026 Commonwealth Games held in Glasgow?",
+   "answer": "4th",
+   "explanation": "Glasgow CWG 2026 (Aug 2026): India finished 4th with 39 medals (13 gold, 17 silver, 9 bronze), including a record 7 boxing golds, even though wrestling and shooting were left out. Australia topped the table."
+  },
+  {
+   "id": "bdb6d54986",
+   "topic": "likely",
+   "q": "Which country won the 2026 FIFA World Cup (hosted by the USA, Canada and Mexico) by beating Argentina 1-0 after extra time in the final?",
+   "answer": "Spain",
+   "explanation": "CNBC/Indian Express, 19-20 Jul 2026: Spain beat Argentina 1-0 after extra time at MetLife Stadium, New Jersey, with an extra-time goal by Ferran Torres. It is Spain's 2nd title, after 2010."
+  },
+  {
+   "id": "c73a153e97",
+   "topic": "sep-2026",
+   "q": "In the 40th edition of the Global Financial Centres Index (GFCI 40), released in September 2026 by Z/Yen Partners and the China Development Institute, what was GIFT City's overall global rank?",
+   "answer": "37th",
+   "explanation": "GIFT City rose nine places, from 46th in GFCI 39 to 37th in GFCI 40, and entered the Asia-Pacific top 15 (Business Today / DD News, 17 Sep 2026)."
+  },
+  {
+   "id": "65a3e705f1",
+   "topic": "sep-2026",
+   "q": "The OECD's Interim Economic Outlook of September 2026 raised India's growth projection for FY2026-27 to:",
+   "answer": "7.1%",
+   "explanation": "The OECD raised India's FY27 forecast by 0.8 percentage points, from 6.3% to 7.1%, and projected 6.5% for FY28 (OECD Interim Report, Sep 2026; Fibre2Fashion)."
+  },
+  {
+   "id": "5be85f4529",
+   "topic": "sep-2026",
+   "q": "Gross GST collections for August 2026, released on 1 September 2026, grew 14.8% year-on-year to approximately:",
+   "answer": "₹1.99 lakh crore",
+   "explanation": "Gross GST revenue for August 2026 was ₹1,99,853 crore (+14.8%). Net revenue was ₹1.68 lakh crore (+8.3%) because refunds rose 67.9% (Business Standard / GSTN, 1 Sep 2026)."
+  },
+  {
+   "id": "d946d3e020",
+   "topic": "sep-2026",
+   "q": "In the World Economic Forum's Travel & Tourism Development Index 2026, released in September 2026, what was India's rank?",
+   "answer": "31st",
+   "explanation": "India rose nine places to 31st with a score of 4.42. Japan topped the index, knocking the US to second (WEF TTDI 2026; Business Today / Fortune India, 25–26 Sep 2026)."
+  },
+  {
+   "id": "79b78f484f",
+   "topic": "sep-2026",
+   "q": "The 2026 edition of the Indian Air Force's multinational air exercise 'Tarang Shakti', in which US F-35 fighters made their debut in an Indian exercise, began in late September 2026 at which Air Force Station?",
+   "answer": "Jodhpur",
+   "explanation": "Tarang Shakti 2026 began its operational phase at AFS Jodhpur on 27 Sep 2026 with seven foreign air forces; about 40 countries are taking part or observing (DD News / Times of India, 27 Sep 2026)."
+  },
+  {
+   "id": "4b99cfbba7",
+   "topic": "sep-2026",
+   "q": "India won a record-extending eighth Women's Asia Cup title (2026, T20 format) on 13 September 2026 in Dubai. Which team did India beat in the final?",
+   "answer": "Sri Lanka",
+   "explanation": "India made 183/5 and beat defending champions Sri Lanka by 72 runs; Shafali Verma scored 68 and Shree Charani took 4/20 (ICC / ANI / The Indian Express, 13 Sep 2026)."
+  },
+  {
+   "id": "90488d5c43",
+   "topic": "aug-2026",
+   "q": "In August 2026, the Government launched an Offer for Sale (OFS) of up to 6.5% stake in Life Insurance Corporation of India (LIC). What was the floor price per share?",
+   "answer": "₹382",
+   "explanation": "The Government's LIC OFS for up to 6.5% (including green shoe) opened on 4 Aug 2026 (retail 5 Aug) at a floor price of ₹382 per share (Upstox/CNBC TV18, 4 Aug 2026)."
+  },
+  {
+   "id": "8d5bfa55d9",
+   "topic": "aug-2026",
+   "q": "The 15th edition of Exercise MAITREE (MAITREE-XV), which began on 18 August 2026, is a joint military exercise between India and:",
+   "answer": "Thailand",
+   "explanation": "MAITREE-XV is the India-Thailand army exercise; an 85-member Indian contingent left on 17 Aug 2026 for counter-terrorism training in jungle and semi-urban terrain (PIB/ThePrint, 17 Aug 2026)."
+  },
+  {
+   "id": "36ac6928e5",
+   "topic": "aug-2026",
+   "q": "The 17th Conference of the Parties (COP17) to the UN Convention to Combat Desertification (UNCCD) was held from 17 to 28 August 2026 in:",
+   "answer": "Ulaanbaatar, Mongolia",
+   "explanation": "UNCCD COP17 met in Ulaanbaatar from 17 to 28 Aug 2026 ('Restoring Land, Restoring Hope'), with Bhupender Yadav representing India; COP16 was held in Riyadh (UNCCD/PIB, Aug 2026)."
+  },
+  {
+   "id": "0013e2401a",
+   "topic": "jul-2026",
+   "q": "In tie-ups reported on 1 July 2026, NPCI partnered with which two banks to offer real-time foreign exchange rates and settlement for UPI payments made by Indians travelling abroad?",
+   "answer": "HSBC India and J.P. Morgan Payments",
+   "explanation": "NPCI signed separate tie-ups with HSBC India and J.P. Morgan Payments to provide real-time FX via API integration for cross-border UPI (J.P. Morgan release, 30 Jun 2026; Business Standard, 1 Jul 2026)."
+  },
+  {
+   "id": "20f809d7b4",
+   "topic": "jul-2026",
+   "q": "Which Indian bank received its first international issuer credit rating, 'BBB-/Stable' (investment grade), from S&P Global Ratings in July 2026?",
+   "answer": "Federal Bank",
+   "explanation": "S&P gave Federal Bank an inaugural BBB-/Stable long-term and A-3 short-term issuer rating (Business Standard, 9 Jul 2026)."
+  },
+  {
+   "id": "36d8f78dd4",
+   "topic": "jul-2026",
+   "q": "According to MoSPI data released on 13 July 2026, what was India's all-India CPI-based retail inflation for June 2026?",
+   "answer": "4.38%",
+   "explanation": "June 2026 CPI inflation (base 2024=100) was 4.38%, up from 3.93% in May; food inflation was 5.32% and rural inflation 4.74% (MoSPI press release, 13 Jul 2026)."
+  },
+  {
+   "id": "5f08b51b31",
+   "topic": "jul-2026",
+   "q": "In July 2026, PM Narendra Modi became the second Indian PM after Jawaharlal Nehru to receive the 'Bintang Adipurna'. Which country's highest state honour is it?",
+   "answer": "Indonesia",
+   "explanation": "President Prabowo Subianto conferred the Bintang Republik Indonesia Adipurna on Modi in Jakarta on 7 Jul 2026 (Indonesian State Secretariat / Tempo, Jul 2026)."
+  },
+  {
+   "id": "64d20d9dc5",
+   "topic": "jul-2026",
+   "q": "On which date did the India–UK Comprehensive Economic and Trade Agreement (CETA) and the Double Contribution Convention enter into force?",
+   "answer": "15 July 2026",
+   "explanation": "Both came into force on 15 Jul 2026; CETA was signed on 24 Jul 2025 and the DCC on 10 Feb 2026 (PIB, Jul 2026)."
+  },
+  {
+   "id": "e36226ff86",
+   "topic": "jul-2026",
+   "q": "DRDO flight-tested 'Kusha' for the first time on 23 July 2026 from Dr APJ Abdul Kalam Island, Odisha. What kind of weapon is it?",
+   "answer": "Long-range surface-to-air missile",
+   "explanation": "Kusha is an indigenous long-range surface-to-air missile (LR-SAM), part of the layered air defence envisaged under Mission Sudarshan Chakra (MoD / Business Today, 23-24 Jul 2026)."
+  },
+  {
+   "id": "cbccf35b83",
+   "topic": "rbi-policy",
+   "q": "According to RBI's August 2026 projections, in which quarter of 2026-27 is headline CPI inflation expected to peak, at about 5.9%?",
+   "answer": "Q3 (October-December)",
+   "explanation": "Aug 2026 path: Q2 4.7%, Q3 5.9%, Q4 5.5%. RBI said inflation will peak in Q3, mainly because of food and fuel (RBI MPC resolution)."
+  },
+  {
+   "id": "fb7bd0cec4",
+   "topic": "rbi-policy",
+   "q": "According to the RBI Annual Report 2025-26, the size of RBI's balance sheet as on March 31, 2026 was about:",
+   "answer": "₹91.97 lakh crore",
+   "explanation": "May 2026: RBI's balance sheet grew 20.61% to ₹91,97,121.08 crore (about ₹91.97 lakh crore) as on March 31, 2026, up from ₹76.25 lakh crore a year earlier (RBI)."
+  },
+  {
+   "id": "b5a1d51842",
+   "topic": "rbi-policy",
+   "q": "As per the RBI Annual Report 2025-26, the amount involved in frauds reported by banks during 2025-26 was:",
+   "answer": "₹48,021 crore",
+   "explanation": "RBI Annual Report (May 29, 2026): the amount involved in FY26 frauds rose to ₹48,021 crore even as the number of cases fell, pushed up by legacy cases reported afresh."
+  },
+  {
+   "id": "b75bbd8377",
+   "topic": "rbi-policy",
+   "q": "According to the RBI Annual Report 2025-26, counterfeit notes of which denomination were detected in the highest number in the banking system in 2025-26, rising by over 20% over the previous year?",
+   "answer": "₹500",
+   "explanation": "RBI Annual Report (May 2026): fake ₹500 notes rose over 20% in FY26 and made up about 61.8% of all counterfeit pieces detected."
+  },
+  {
+   "id": "32d8906ad7",
+   "topic": "rbi-circulars",
+   "q": "In November 2025, the RBI issued function-wise consolidated Master Directions for 11 types of regulated entities and repealed more than 9,400 circulars. How many Master Directions were issued in this exercise?",
+   "answer": "244",
+   "explanation": "On 28 Nov 2025 the RBI issued 244 consolidated Master Directions and repealed about 9,445 circulars. The October 2025 draft had proposed 238 (RBI / ET / Business Line)."
+  },
+  {
+   "id": "d403d8380b",
+   "topic": "rbi-circulars",
+   "q": "Under the RBI's ECL framework for commercial banks, a loan more than how many days past due is presumed (unless rebutted) to show a 'significant increase in credit risk', moving it from Stage 1 to Stage 2?",
+   "answer": "30 days",
+   "explanation": "Under the ECL Directions of 27 Apr 2026, a significant increase in credit risk is presumed when contractual payments are more than 30 days past due. This presumption can be rebutted (RBI notification)."
+  },
+  {
+   "id": "e2413bf910",
+   "topic": "rbi-circulars",
+   "q": "To soften the one-time impact of moving to ECL provisioning, commercial banks may add back part of the transitional adjustment to CET1 capital over a glide path ending on:",
+   "answer": "March 31, 2031",
+   "explanation": "Under the ECL Directions of Apr 2026, the add-back falls from 4/5 in FY2027-28 to 1/5 in FY2030-31, so the glide path ends on 31 Mar 2031 (RBI notification)."
+  },
+  {
+   "id": "b9074c48ca",
+   "topic": "rbi-circulars",
+   "q": "Under the RBI (Commercial Banks – Credit Facilities) Amendment Directions, 2026 (13 February 2026), bank finance for an acquisition may not exceed what share of the acquisition value?",
+   "answer": "75%",
+   "explanation": "Bank finance is capped at 75% of the acquisition value, and the post-deal debt-equity ratio must stay at or below 3:1. On 30 Mar 2026 the RBI deferred the norms to 1 Jul 2026 (RBI notifications)."
+  },
+  {
+   "id": "bb98394d14",
+   "topic": "rbi-circulars",
+   "q": "The RBI (Authentication Mechanisms for Digital Payment Transactions) Directions, 2025 require domestic digital payments to be verified with at least two distinct authentication factors. By what date did regulated entities have to comply for domestic transactions?",
+   "answer": "April 1, 2026",
+   "explanation": "The Directions were issued on 25 Sep 2025, and domestic 2FA compliance was due by 1 Apr 2026. A separate deadline of 1 Oct 2026 applies to non-recurring cross-border card-not-present transactions (MediaNama, Sep 2025)."
+  },
+  {
+   "id": "d78700f6ea",
+   "topic": "rbi-circulars",
+   "q": "Under the RBI's revised capital market exposure norms of February 2026, the ceiling on bank loans to an individual against shares/eligible securities was raised from ₹20 lakh to:",
+   "answer": "₹1 crore",
+   "explanation": "The Credit Facilities Amendment Directions of 13 Feb 2026 set a cap of ₹1 crore per individual and allowed IPO/FPO/ESOP financing of up to ₹25 lakh. They took effect on 1 Jul 2026 after being deferred (RBI notifications)."
+  },
+  {
+   "id": "5c4cb826e5",
+   "topic": "rbi-circulars",
+   "q": "Under the RBI's January 2026 PSL amendment, bank loans to which institution for on-lending now qualify as priority sector credit?",
+   "answer": "National Cooperative Development Corporation (NCDC)",
+   "explanation": "The PSL Amendment Directions, effective 19 Jan 2026, allow bank loans to NCDC for on-lending to count as priority sector lending (TOI, Jan 2026)."
+  },
+  {
+   "id": "12c3e979ce",
+   "topic": "banking-ca",
+   "q": "Vinay Muralidhar Tonse took charge as MD & CEO of Yes Bank on 6 April 2026. Which bank did he previously serve as Managing Director?",
+   "answer": "State Bank of India",
+   "explanation": "Tonse was SBI MD (Retail Business & Operations) until 30 Nov 2025. RBI approved a 3-year term on 3 Feb 2026, and he succeeded Prashant Kumar on 6 Apr 2026 (Yes Bank filings)."
+  },
+  {
+   "id": "daab70e119",
+   "topic": "banking-ca",
+   "q": "Which foreign bank became the largest shareholder of Yes Bank in September 2025 after acquiring a 20% stake, including about 13.18% bought from SBI?",
+   "answer": "Sumitomo Mitsui Banking Corporation (SMBC)",
+   "explanation": "Japan's SMBC completed its 20% acquisition on 18 Sept 2025, buying from SBI and other banks. The SBI portion was about 13.18%, for roughly Rs 8,889 crore. SMBC later raised its holding further."
+  },
+  {
+   "id": "9636ad5285",
+   "topic": "banking-ca",
+   "q": "For which period did the RBI approve Sandeep Bakhshi's re-appointment as MD & CEO of ICICI Bank?",
+   "answer": "4 Oct 2026 to 3 Oct 2028",
+   "explanation": "An RBI letter dated 22 May 2026 approved a two-year term from 4 Oct 2026 to 3 Oct 2028 (ICICI Bank filing, 22 May 2026). Bakhshi has led ICICI Bank since 2018."
+  },
+  {
+   "id": "379cbbff0d",
+   "topic": "banking-ca",
+   "q": "Arijit Basu, a former Managing Director of SBI, was appointed part-time chairman of which private sector bank for three years from 31 January 2026?",
+   "answer": "IndusInd Bank",
+   "explanation": "Basu succeeded Sunil Mehta as IndusInd Bank's part-time chairman for a term from 31 Jan 2026 to 30 Jan 2029. He was earlier chairman of HDB Financial Services (IndusInd filing, 31 Jan 2026)."
+  },
+  {
+   "id": "3458aa1444",
+   "topic": "banking-ca",
+   "q": "RBI has approved Mahesh Muralidhar Pai as MD & CEO of South Indian Bank from 1 October 2026. Where is the bank headquartered?",
+   "answer": "Thrissur",
+   "explanation": "An RBI letter dated 7 July 2026 approved a three-year term from 1 Oct 2026. Pai was a CGM for digital banking at Canara Bank. South Indian Bank is headquartered in Thrissur, Kerala."
+  },
+  {
+   "id": "1714c52458",
+   "topic": "banking-ca",
+   "q": "R. Vijay Anandh took over as MD & CEO on 1 May 2026, succeeding N. Kamakodi. Which bank does he head?",
+   "answer": "City Union Bank",
+   "explanation": "An RBI letter dated 9 Feb 2026 approved Vijay Anandh, then an Executive Director, for a 3-year term from 1 May 2026. City Union Bank is headquartered in Kumbakonam, Tamil Nadu."
+  },
+  {
+   "id": "207a964d4b",
+   "topic": "banking-ca",
+   "q": "Rajan Bajaj was appointed MD & CEO of slice Small Finance Bank in February 2026. slice SFB was formed by the merger of the fintech slice with which bank?",
+   "answer": "North East Small Finance Bank",
+   "explanation": "The slice-NESFB merger was India's first fintech-bank merger. It was completed in Oct 2024, and the bank was renamed slice Small Finance Bank in May 2025. Bajaj, slice's founder, became MD & CEO in Feb 2026."
+  },
+  {
+   "id": "c09eeb8079",
+   "topic": "banking-ca",
+   "q": "In April 2026, the Centre extended Debadatta Chand's tenure as MD & CEO by three years beyond 30 June 2026. Which bank does he head?",
+   "answer": "Bank of Baroda",
+   "explanation": "A Central Government notification dated 23 April 2026 extended Chand's tenure at Bank of Baroda by three years beyond his term ending 30 June 2026 (BoB filing, 23 April 2026)."
+  },
+  {
+   "id": "41023d7b01",
+   "topic": "banking-ca",
+   "q": "In February 2026, the RBI approved global private equity firm Blackstone to acquire up to 9.99% stake in which bank?",
+   "answer": "Federal Bank",
+   "explanation": "Federal Bank disclosed on 5 Feb 2026 that RBI had approved Blackstone affiliate Asia II Topco XIII. The affiliate is investing about Rs 6,196.5 crore in the Aluva-based bank through a preferential issue of warrants."
+  },
+  {
+   "id": "9baa355025",
+   "topic": "banking-ca",
+   "q": "Which publication named State Bank of India the 'World's Best Consumer Bank 2026'?",
+   "answer": "Global Finance",
+   "explanation": "Global Finance announced the award on 16 July 2026. It will be presented on 17 Oct 2026 in Bangkok during the IMF-World Bank Annual Meetings. SBI serves over 520 million customers."
+  },
+  {
+   "id": "4f3074e076",
+   "topic": "banking-ca",
+   "q": "Which bank was named 'India's Best Bank' in the Euromoney Awards for Excellence 2026?",
+   "answer": "HDFC Bank",
+   "explanation": "Euromoney (17 July 2026) cited HDFC Bank's leadership in retail, MSME and corporate banking in 2025, with 100 million customers and 9,616 branches."
+  },
+  {
+   "id": "a51df9f7b4",
+   "topic": "budget",
+   "q": "What nominal GDP growth rate for 2026-27 did the Union Budget 2026-27 assume in its estimates?",
+   "answer": "10%",
+   "explanation": "The Budget 2026-27 (Feb 2026) estimates assume 10% nominal GDP growth for FY27, according to the PRS Budget Analysis."
+  },
+  {
+   "id": "24c2b4416a",
+   "topic": "budget",
+   "q": "The Union Budget 2026-27 was built around three 'Kartavyas' (duties). Which of the following is NOT one of them?",
+   "answer": "Achieve a fiscal deficit of 3% of GDP by 2030-31",
+   "explanation": "Budget speech (1 Feb 2026): the three kartavyas are growth, people's aspirations and capacity, and access for all (Sabka Sath, Sabka Vikas). None of them is a fiscal-deficit target."
+  },
+  {
+   "id": "78d073f584",
+   "topic": "budget",
+   "q": "The Income-tax Act, 2025, which Budget 2026-27 confirmed would come into force on 1 April 2026, replaces which law?",
+   "answer": "Income-tax Act, 1961",
+   "explanation": "Budget speech (1 Feb 2026): the review of the Income Tax Act, 1961 is complete, and the Income Tax Act, 2025 comes into effect from 1 April 2026."
+  },
+  {
+   "id": "174d728010",
+   "topic": "budget",
+   "q": "Budget 2026-27 raised the Securities Transaction Tax (STT) on the sale of futures from 0.02% to what rate?",
+   "answer": "0.05%",
+   "explanation": "Budget 2026-27 (Feb 2026) raised STT on futures from 0.02% to 0.05%. STT on options premium (0.1%) and on exercise of options (0.125%) both rose to 0.15%."
+  },
+  {
+   "id": "bfb2e05452",
+   "topic": "budget",
+   "q": "Budget 2026-27 extended the tax holiday for eligible units in the International Financial Services Centre (GIFT City) and Offshore Banking Units from 10 years to how many years?",
+   "answer": "20 years",
+   "explanation": "Finance Bill 2026 (Feb 2026) extends the deduction to 20 consecutive years out of 25 for IFSC units and to 20 consecutive years for OBUs, with a 15% tax rate after that."
+  },
+  {
+   "id": "ac658fa2c6",
+   "topic": "budget",
+   "q": "What outlay did Budget 2026-27 announce for 'Biopharma SHAKTI', meant to make India a global hub for biologics and biosimilars?",
+   "answer": "Rs 10,000 crore over five years",
+   "explanation": "Biopharma SHAKTI (Budget, Feb 2026) has Rs 10,000 crore over 5 years. It includes 3 new NIPERs, upgrades to 7 existing ones, and over 1,000 accredited clinical trial sites."
+  },
+  {
+   "id": "12687c7f08",
+   "topic": "budget",
+   "q": "Budget 2026-27 raised the outlay of the Electronics Components Manufacturing Scheme from Rs 22,919 crore to what amount?",
+   "answer": "Rs 40,000 crore",
+   "explanation": "Budget speech (Feb 2026): the ECMS, launched in April 2025, already had investment commitments at double its target, so its outlay was raised to Rs 40,000 crore."
+  },
+  {
+   "id": "7b08a9827d",
+   "topic": "budget",
+   "q": "Budget 2026-27 announced a dedicated Rs 10,000 crore fund to give equity support to high-potential 'Champion' MSMEs. What is it called?",
+   "answer": "SME Growth Fund",
+   "explanation": "Budget 2026-27 (Feb 2026) created a Rs 10,000 crore SME Growth Fund. The Self-Reliant India Fund received only a Rs 2,000 crore top-up."
+  },
+  {
+   "id": "2b3157e964",
+   "topic": "budget",
+   "q": "As part of financial sector reforms, Budget 2026-27 proposed restructuring which two public sector NBFCs to improve their scale and efficiency?",
+   "answer": "Power Finance Corporation and REC Ltd",
+   "explanation": "Budget 2026-27 (Feb 2026) proposed restructuring PFC and REC as a first step for PSU NBFCs, and also a High Level Committee on Banking for Viksit Bharat."
+  },
+  {
+   "id": "8e5812995a",
+   "topic": "economy",
+   "q": "The World Bank's Global Economic Prospects report of June 2026 projected India's GDP growth for FY 2026-27 at:",
+   "answer": "6.6%",
+   "explanation": "World Bank GEP (June 2026): India's FY27 growth was put at 6.6% (up 0.1 pp from January) and FY26 was estimated at 7.7%, as the Middle East conflict slowed global growth to 2.5%."
+  },
+  {
+   "id": "20ceb546b6",
+   "topic": "economy",
+   "q": "India's gross GST collection hit an all-time monthly high in April 2026. What was the amount?",
+   "answer": "₹2.43 lakh crore",
+   "explanation": "GSTN/DEA (May 2026): April 2026 GST collection (CGST+SGST+IGST) was a record ₹2.43 lakh crore, up 8.7% year on year."
+  },
+  {
+   "id": "da26edfe70",
+   "topic": "economy",
+   "q": "As per Commerce Ministry data, India's total exports (goods + services) reached a record high in FY 2025-26 of about:",
+   "answer": "$860 billion",
+   "explanation": "Commerce Ministry (15 Apr 2026): FY26 total exports were a record of about US$860.09 bn, up 4.2% from $825.26 bn in FY25. Goods exports were $441.8 bn."
+  },
+  {
+   "id": "939cc2432e",
+   "topic": "economy",
+   "q": "Consider the following pairs of India's ranks in global indices:\n1. Corruption Perceptions Index 2025 (Transparency International) – 91st\n2. World Press Freedom Index 2026 (Reporters Without Borders) – 157th\n3. Global Peace Index 2026 (Institute for Economics & Peace) – 115th\nWhich of the pairs given above is/are correctly matched?",
+   "answer": "1 and 2 only",
+   "explanation": "CPI 2025: India 91st of 182 (score 39). RSF 2026: 157th of 180. GPI 2026: India 127th, so pair 3 is wrong."
+  },
+  {
+   "id": "9b93dacdf7",
+   "topic": "digital",
+   "q": "In June 2026, UPI went live in Greece, and Commerce Minister Piyush Goyal witnessed a live demonstration at the partner bank's headquarters in Athens. The service was enabled through a partnership between NPCI International Payments Ltd (NIPL) and which Greek bank?",
+   "answer": "Eurobank",
+   "explanation": "30 Jun 2026: Goyal posted about the Eurobank–NIPL partnership demonstration at Eurobank HQ in Athens. France and Greece are now the European countries that accept UPI."
+  },
+  {
+   "id": "8bac297f16",
+   "topic": "digital",
+   "q": "On 30 August 2026, during PM Modi's visit to Uzbekistan, NIPL signed an agreement with the National Interbank Processing Centre (NIPC) so that Indian travellers can pay by scanning the UZQR code. NIPC operates which national payment system of Uzbekistan?",
+   "answer": "HUMO",
+   "explanation": "Finance Ministry, 31 Aug 2026: NIPL signed with NIPC, operator of HUMO, on 30 Aug. The Central Bank of Uzbekistan designated HUMO as NIPL's authorised partner, and UPI apps will scan UZQR."
+  },
+  {
+   "id": "1bdac2d02a",
+   "topic": "digital",
+   "q": "In June 2026, UPI acceptance went live in Cambodia through NIPL's partnership with ACLEDA Bank Plc. Indian travellers can pay at merchants there by scanning which national QR code?",
+   "answer": "KHQR",
+   "explanation": "RBI/NPCI, 2 Jun 2026: Indian UPI apps can scan Bakong's KHQR codes at more than 4.5 million merchant outlets in Cambodia. The NIPL–ACLEDA pact was signed in Dec 2025."
+  },
+  {
+   "id": "84aaa35366",
+   "topic": "digital",
+   "q": "UPI completed 10 years of operations in 2026. With how many participating banks was UPI launched in 2016?",
+   "answer": "21",
+   "explanation": "PIB/NPCI (Aug 2026): UPI started with 21 banks in 2016 and had 741 live banks by July 2026. It handled about 24,162 crore transactions in FY 2025-26."
+  },
+  {
+   "id": "4fea82b05c",
+   "topic": "digital",
+   "q": "A CBDC (e₹)-based 'Digital Food Coupon' pilot under the Public Distribution System, which issues food subsidy as programmable digital-rupee coupons redeemable at Fair Price Shops, was inaugurated by Amit Shah on 15 February 2026 in which State or UT?",
+   "answer": "Gujarat",
+   "explanation": "15 Feb 2026 (PIB): Amit Shah inaugurated the CBDC digital food coupon pilot in Gujarat. A CBDC-based PMGKAY pilot followed in Puducherry on 26 Feb 2026."
+  },
+  {
+   "id": "259007c26c",
+   "topic": "digital-cyber",
+   "q": "The National Cyber Crime Helpline '1930' and the National Cybercrime Reporting Portal (cybercrime.gov.in), where victims of online financial fraud should report at once, are operated by:",
+   "answer": "Indian Cyber Crime Coordination Centre (I4C), Ministry of Home Affairs",
+   "explanation": "The MHA's I4C runs the NCRP (cybercrime.gov.in, launched 30 Aug 2019) and the 24x7 helpline 1930. Its Citizen Financial Cyber Fraud Reporting and Management System links banks and wallets so that stolen funds can be frozen quickly (I4C / Wikipedia)."
+  },
+  {
+   "id": "4fa0a11782",
+   "topic": "digital-cyber",
+   "q": "'Chakshu', a facility for citizens to report suspected fraud communication received by call, SMS or WhatsApp (such as fake KYC-update or bank-impersonation messages), is available on which platform?",
+   "answer": "Sanchar Saathi portal of the Department of Telecommunications",
+   "explanation": "Ashwini Vaishnaw launched Chakshu on the DoT's Sanchar Saathi portal on 4 Mar 2024, together with the DoT's Digital Intelligence Platform. The RBI's Sachet portal handles complaints about illegal deposit-taking (Business Today / Moneylife, Mar 2024)."
+  },
+  {
+   "id": "e8c99ae5f0",
+   "topic": "digital-cyber",
+   "q": "To curb fraud, NPCI discontinued which UPI feature with effect from 1 October 2025?",
+   "answer": "Person-to-person (P2P) collect requests",
+   "explanation": "NPCI's circular of 29 Jul 2025 stopped P2P 'collect' (pull) requests on UPI from 1 Oct 2025, because fraudsters used them to trick users into approving payments. Merchant collect requests continue (MediaNama / Outlook Money)."
+  },
+  {
+   "id": "e0cad0ff45",
+   "topic": "digital-cyber",
+   "q": "To help customers tell genuine bank calls from fraud calls, the RBI in January 2025 directed banks and other regulated entities to make transactional and service voice calls to customers only from which number series?",
+   "answer": "1600xx",
+   "explanation": "RBI circular of 17 Jan 2025 (in line with TRAI rules): the 1600xx series for transactional and service calls and the 140 series for promotional calls, with compliance due by 31 Mar 2025. Banks must also clean their databases using the DoT's Mobile Number Revocation List (MediaNama / Lexology)."
+  },
+  {
+   "id": "7375389c15",
+   "topic": "digital-cyber",
+   "q": "On 1 December 2025, a Supreme Court bench led by CJI Surya Kant entrusted which agency with a pan-India investigation into 'digital arrest' scams, including the role of bank staff in opening mule accounts?",
+   "answer": "Central Bureau of Investigation (CBI)",
+   "explanation": "On 1 Dec 2025, the SC (CJI Surya Kant and Justice Joymalya Bagchi) handed the pan-India digital-arrest probe to the CBI, allowed action against bank officials over mule accounts, and asked the RBI whether AI/ML could be used to freeze such accounts (Business Standard / MediaNama, Dec 2025)."
+  },
+  {
+   "id": "7bcb313fd1",
+   "topic": "digital-cyber",
+   "q": "Which of the following fraud types is INCORRECTLY matched with its modus operandi?",
+   "answer": "SIM swap - a fraudster persuades the victim to install a screen-sharing app to read OTPs on the victim's phone",
+   "explanation": "In a SIM swap the fraudster gets a duplicate SIM for the victim's number and receives the OTPs. Tricking a victim into a screen-sharing app is remote-access fraud. The RBI's BE(A)WARE booklet (7 Mar 2022) lists both separately (RBI / Factly)."
+  },
+  {
+   "id": "e7bb8c9fc5",
+   "topic": "digital-cyber",
+   "q": "Under the RBI (Digital Lending) Directions, 2025, what is the cap on Default Loss Guarantee (DLG) cover, and within what overdue period must the lender invoke it?",
+   "answer": "5% of the loan portfolio; within 120 days of overdue",
+   "explanation": "The Directions of 8 May 2025 cap total DLG cover at 5% of the amount disbursed from the loan portfolio. The lender must invoke it within 120 days of overdue, and an invoked DLG cannot be reinstated (Argus Partners / Mondaq, 2025)."
+  },
+  {
+   "id": "ce74188655",
+   "topic": "digital-cyber",
+   "q": "Under the RBI (Regulation of Payment Aggregators) Directions, 2025, what is the maximum value per transaction for inward or outward (export/import) payments processed by a Payment Aggregator - Cross Border (PA-CB)?",
+   "answer": "₹25 lakh",
+   "explanation": "The Directions of 15 Sep 2025 cap each PA-CB transaction at ₹25 lakh. Non-bank PAs need a net worth of ₹15 crore at application and ₹25 crore by the third year (Winvesta / Lexology, 2025)."
+  },
+  {
+   "id": "79907c3b74",
+   "topic": "digital-cyber",
+   "q": "UPI 123PAY is NPCI's UPI service for feature-phone users, with a per-transaction limit of ₹10,000. Which of the following is NOT one of its payment modes?",
+   "answer": "NFC tap-and-pay on a POS terminal",
+   "explanation": "UPI 123PAY (launched Mar 2022) has four modes: IVR, app-based pay on feature phones, missed call and proximity sound-based payments. NPCI circular OC-209 (25 Oct 2024) raised its limit from ₹5,000 to ₹10,000. NFC tap is a UPI Lite X feature (NPCI / Digital India)."
+  },
+  {
+   "id": "ab6b1993da",
+   "topic": "digital-cyber",
+   "q": "Under full delegation in NPCI's 'UPI Circle', what are the maximum monthly limit and per-transaction limit for payments by a secondary user?",
+   "answer": "₹15,000 per month; ₹5,000 per transaction",
+   "explanation": "UPI Circle launched at GFF in Aug 2024. A primary user can add up to 5 secondary users, and full delegation is capped at ₹15,000 a month and ₹5,000 per transaction (NPCI / Paytm / PhonePe)."
+  },
+  {
+   "id": "de5c599750",
+   "topic": "digital-cyber",
+   "q": "Which of the following statements about India's payment systems is NOT correct?",
+   "answer": "IMPS and NACH are owned and operated by the Reserve Bank of India",
+   "explanation": "IMPS and NACH are NPCI systems; the RBI operates RTGS and NEFT. NEFT has run 24x7 in 48 half-hourly batches since 16 Dec 2019, and in Oct 2021 the RBI raised the IMPS limit from ₹2 lakh to ₹5 lakh (RBI / Business Standard)."
+  },
+  {
+   "id": "a88fc23497",
+   "topic": "digital-cyber",
+   "q": "Under RBI's directions on due diligence of AePS Touchpoint Operators (ATOs), effective 1 January 2026, acquiring banks must carry out fresh KYC of an ATO that has not performed any transaction for a continuous period of:",
+   "answer": "3 months",
+   "explanation": "RBI directions of 27 Jun 2025 (effective 1 Jan 2026): an ATO that has been inactive for 3 consecutive months must be re-KYC'd before it can resume. Banks must also monitor ATO transactions (TaxGuru / Business Standard, 2025)."
+  },
+  {
+   "id": "e98733d411",
+   "topic": "digital-cyber",
+   "q": "The Central KYC Records Registry (CKYCR) is operated by ______, and the KYC Identifier Number (KIN) it gives each customer has ______ digits.",
+   "answer": "CERSAI; 14",
+   "explanation": "CERSAI runs the CKYCR for the Government under the PMLA and its Rules. Each customer gets a 14-digit KIN that can be reused for KYC across banks, insurers and mutual funds (CERSAI / HDFC MF)."
+  },
+  {
+   "id": "b67e3f1ac2",
+   "topic": "schemes",
+   "q": "As per 2026 PMJDY data, women account holders make up roughly what share of all Jan Dhan accounts?",
+   "answer": "About 56%",
+   "explanation": "PMJDY portal (16 Sep 2026): 33.04 crore of 59.31 crore beneficiaries are women (about 55.7%), and about 78% of accounts are rural/semi-urban."
+  },
+  {
+   "id": "38f982be8b",
+   "topic": "schemes",
+   "q": "Under Pradhan Mantri Suraksha Bima Yojana (PMSBY), what is the cover for partial permanent disability caused by an accident, and what is the annual premium?",
+   "answer": "Rs 1 lakh; Rs 20",
+   "explanation": "PMSBY (age 18-70) pays Rs 2 lakh for accidental death or total disability and Rs 1 lakh for partial permanent disability, for Rs 20 a year; about 55.32 crore enrolments by Nov 2025 (DFS AR 2025-26)."
+  },
+  {
+   "id": "dd2530204e",
+   "topic": "schemes",
+   "q": "In April 2026, PFRDA announced that gross enrolments under Atal Pension Yojana (APY) had crossed which milestone?",
+   "answer": "9 crore",
+   "explanation": "PFRDA press release, 22 Apr 2026: APY crossed 9 crore gross enrolments on 21 Apr 2026, and FY 2025-26 had a record 1.35 crore enrolments."
+  },
+  {
+   "id": "c997be0232",
+   "topic": "schemes",
+   "q": "In January 2026, the Union Cabinet approved continuing Atal Pension Yojana, along with funding for promotional and developmental activities and gap funding, up to which year?",
+   "answer": "FY 2030-31",
+   "explanation": "Cabinet decision, 21 Jan 2026 (PIB): APY continues up to FY 2030-31; over 8.66 crore subscribers had enrolled as of 19 Jan 2026."
+  },
+  {
+   "id": "9c986ab0ab",
+   "topic": "schemes",
+   "q": "Guarantee cover for PMMY (Mudra) loans of up to Rs 20 lakh comes from which fund, and who is its trustee?",
+   "answer": "CGFMU; National Credit Guarantee Trustee Company (NCGTC)",
+   "explanation": "The Credit Guarantee Fund for Micro Units is held by NCGTC, which is wholly owned by the Government of India; live guarantees stood at Rs 5.60 lakh crore on 30.11.2025 (DFS AR 2025-26)."
+  },
+  {
+   "id": "deb04de364",
+   "topic": "schemes",
+   "q": "Under PM Vishwakarma (Ministry of MSME, launched 17 September 2023, covering 18 traditional trades), how is collateral-free credit provided?",
+   "answer": "Rs 1 lakh and Rs 2 lakh in two tranches at 5% interest",
+   "explanation": "Rs 1 lakh (18 months) plus Rs 2 lakh (30 months) at 5%, with MoMSME's interest subvention capped at 8%; there is also a Rs 15,000 toolkit incentive and a Rs 500/day training stipend (pmvishwakarma.gov.in)."
+  },
+  {
+   "id": "20015c9bf4",
+   "topic": "schemes",
+   "q": "Under the restructured PM SVANidhi scheme, whose lending period now runs till 31 March 2030, what are the three loan tranches?",
+   "answer": "Rs 15,000, Rs 25,000 and Rs 50,000",
+   "explanation": "Under the Cabinet restructuring (2025), the 1st tranche rose from Rs 10k to Rs 15k and the 2nd from Rs 20k to Rs 25k, while the 3rd stays at Rs 50k; MoHUA and DFS now run it jointly (DFS AR 2025-26)."
+  },
+  {
+   "id": "24f969f3f9",
+   "topic": "schemes",
+   "q": "Street vendors who repay their second PM SVANidhi loan can get a UPI-linked RuPay credit card. What is its credit limit?",
+   "answer": "Rs 30,000",
+   "explanation": "DFS AR 2025-26: the card has a Rs 30,000 limit and a partial guarantee with 75% risk-sharing; the SVANidhi portal showed about 1.22 crore loans sanctioned by Sep 2026."
+  },
+  {
+   "id": "a87c11010a",
+   "topic": "schemes",
+   "q": "Pradhan Mantri Viksit Bharat Rozgar Yojana, launched on 15 August 2025, has an outlay of about ____ and aims to help create ____ jobs.",
+   "answer": "Rs 99,446 crore; 3.5 crore",
+   "explanation": "pmvbry.labour.gov.in: Rs 99,446 crore outlay to help create more than 3.5 crore jobs (1 Aug 2025 to 31 Jul 2027). This is the Employment Linked Incentive scheme, run by the Ministry of Labour & Employment through EPFO; first-time employees get up to Rs 15,000."
+  },
+  {
+   "id": "0ab131392f",
+   "topic": "schemes",
+   "q": "PM Dhan-Dhaanya Krishi Yojana, launched on 11 October 2025, covers how many districts and has what annual outlay?",
+   "answer": "100 districts; Rs 24,000 crore",
+   "explanation": "Cabinet (July 2025): Rs 24,000 crore a year for six years from 2025-26 in 100 low-performing districts, combining 36 schemes of 11 departments for about 1.7 crore farmers."
+  },
+  {
+   "id": "0c7ff66e9d",
+   "topic": "schemes",
+   "q": "Union Budget 2026-27 proposed 'SHE-Marts', community-owned retail outlets within cluster-level federations that help rural women move from credit-based livelihoods to owning enterprises. What does 'SHE' stand for?",
+   "answer": "Self-Help Entrepreneur",
+   "explanation": "Budget speech, 1 Feb 2026 (para 84): Self-Help Entrepreneur (SHE) Marts, building on the success of the Lakhpati Didi programme."
+  },
+  {
+   "id": "82bb0618d8",
+   "topic": "schemes",
+   "q": "In January 2026, the Union Cabinet approved an equity infusion of how much into SIDBI, to be released in three tranches up to FY 2027-28?",
+   "answer": "Rs 5,000 crore",
+   "explanation": "Cabinet, 21 Jan 2026 (PIB): Rs 5,000 crore in total, with Rs 3,000 crore in FY26 and Rs 1,000 crore each in FY27 and FY28, to keep SIDBI's CRAR healthy and make MSME credit cheaper."
+  },
+  {
+   "id": "bb6fad4777",
+   "topic": "financial-regulators",
+   "q": "The Union Budget 2025-26 proposed raising the FDI limit in the insurance sector for companies that invest their entire premium in India. The limit was proposed to be raised from:",
+   "answer": "74% to 100%",
+   "explanation": "The FM announced this in Budget 2025-26 on 1 Feb 2025. It was enacted through the Sabka Bima Sabki Raksha (Amendment of Insurance Laws) Bill, 2025, which Parliament passed in December 2025 (Rajya Sabha on 17 Dec 2025)."
+  },
+  {
+   "id": "60083f9367",
+   "topic": "financial-regulators",
+   "q": "Under the Unified Pension Scheme (UPS) for Central Government employees, what is the full assured pension?",
+   "answer": "50% of the average basic pay of the last 12 months, for minimum 25 years of qualifying service",
+   "explanation": "UPS was notified in January 2025 and took effect on 1 April 2025. Pay-outs are proportionate for 10 to 25 years of service, with a minimum of Rs 10,000 a month after 10 years."
+  },
+  {
+   "id": "3efe864d8a",
+   "topic": "financial-regulators",
+   "q": "Which of the following is NOT one of the All India Financial Institutions (AIFIs) regulated and supervised by the RBI?",
+   "answer": "IFCI Ltd",
+   "explanation": "RBI regulates five AIFIs: EXIM Bank, NABARD, NHB, SIDBI and NaBFID (set up under the NaBFID Act, 2021). IFCI Ltd is registered with RBI as an NBFC."
+  },
+  {
+   "id": "10d4371c04",
+   "topic": "static-banking",
+   "q": "The Monetary Policy Committee (MPC) of the RBI is constituted under which section of the RBI Act, 1934?",
+   "answer": "Section 45ZB",
+   "explanation": "Section 45ZB provides for the six-member MPC. Section 45ZA covers the inflation target set by the Central Government."
+  },
+  {
+   "id": "5ea0271580",
+   "topic": "static-banking",
+   "q": "Which of the following best distinguishes the Standing Deposit Facility (SDF), introduced in April 2022, from the fixed-rate reverse repo?",
+   "answer": "SDF absorbs liquidity without RBI having to provide collateral in return",
+   "explanation": "SDF (enabled by the 2018 amendment to Sec 17 of the RBI Act) needs no collateral. It replaced the fixed reverse repo (now 3.35%) as the floor of the LAF corridor."
+  },
+  {
+   "id": "12865988fd",
+   "topic": "static-banking",
+   "q": "Which of the following is NOT a tenor at which Government of India Treasury Bills are currently issued?",
+   "answer": "273 days",
+   "explanation": "GoI T-bills are issued at a discount in 91-, 182- and 364-day tenors. The 14-day intermediate T-bills are only for state governments."
+  },
+  {
+   "id": "ea6e75370a",
+   "topic": "static-banking",
+   "q": "Commercial Paper (CP) in India can be issued for a minimum and maximum maturity of:",
+   "answer": "7 days and 1 year",
+   "explanation": "Under RBI's CP directions, CP is issued in multiples of Rs 5 lakh with a maturity of 7 days to 1 year."
+  },
+  {
+   "id": "5da77c8335",
+   "topic": "static-banking",
+   "q": "In the Indian inter-bank money market, 'notice money' refers to funds borrowed or lent for a period of:",
+   "answer": "2 days to 14 days",
+   "explanation": "Call money is overnight, notice money is 2-14 days and term money is 15 days to 1 year."
+  },
+  {
+   "id": "92a4878068",
+   "topic": "static-banking",
+   "q": "The SARFAESI Act, 2002 does not apply where the amount due is less than what percentage of the outstanding principal and interest?",
+   "answer": "20%",
+   "explanation": "Section 31(j) excludes cases where the amount due is below 20% of principal and interest. The Act also does not apply to loans below Rs 1 lakh (Sec 31(h))."
+  },
+  {
+   "id": "091107831e",
+   "topic": "static-banking",
+   "q": "In March 2020 the minimum amount of default for starting the Corporate Insolvency Resolution Process under the IBC, 2016 was raised from Rs 1 lakh to:",
+   "answer": "Rs 1 crore",
+   "explanation": "The threshold was raised to Rs 1 crore under Sec 4 of the IBC (24 March 2020). The MSME pre-pack scheme uses a Rs 10 lakh threshold."
+  },
+  {
+   "id": "c2563b9098",
+   "topic": "static-banking",
+   "q": "RBI's minimum Leverage Ratio requirement for Domestic Systemically Important Banks (D-SIBs) is:",
+   "answer": "4%",
+   "explanation": "RBI requires a 4% leverage ratio for D-SIBs and 3.5% for other banks, against the Basel minimum of 3%."
+  },
+  {
+   "id": "df74938dbb",
+   "topic": "static-banking",
+   "q": "In RBI's D-SIB list released in December 2025, State Bank of India is placed in Bucket 4. What additional CET1 requirement applies to it?",
+   "answer": "0.80% of RWAs",
+   "explanation": "The 2 Dec 2025 list kept the 2024 buckets: SBI (Bucket 4, 0.80%), HDFC Bank (Bucket 2, 0.40%) and ICICI Bank (Bucket 1, 0.20%). This is on top of the CCB."
+  },
+  {
+   "id": "768ce2d570",
+   "topic": "static-banking",
+   "q": "Under RBI's revised Priority Sector Lending directions effective 1 April 2025, what is the target for lending to 'weaker sections' by domestic commercial banks?",
+   "answer": "12% of ANBC or CEOBSE",
+   "explanation": "Under the PSL Master Directions 2025 the weaker-sections target is 12% (up from 10%). The overall target stays at 40% and agriculture at 18%."
+  },
+  {
+   "id": "9b2ac9fd2a",
+   "topic": "static-banking",
+   "q": "After RBI's 2025 revisions to PSL targets, which category of banks has the highest overall PSL target of 75% of ANBC?",
+   "answer": "Regional Rural Banks",
+   "explanation": "RRBs stay at 75%. SFBs were cut from 75% to 60% (20 June 2025) and UCBs are at 60%. Domestic SCBs and large foreign banks are at 40% (PSL Master Directions 2025)."
+  },
+  {
+   "id": "abf2c78a27",
+   "topic": "static-banking",
+   "q": "Under RBI's Scale-Based Regulation (SBR) framework for NBFCs, which layer is ideally expected to remain empty?",
+   "answer": "Top Layer",
+   "explanation": "SBR (effective 1 Oct 2022) has Base, Middle, Upper and Top layers. An NBFC moves to the Top Layer only if RBI sees extreme systemic risk."
+  },
+  {
+   "id": "0d78571bc6",
+   "topic": "static-banking",
+   "q": "After the 'One State, One RRB' amalgamation effective 1 May 2025, the number of Regional Rural Banks in India fell from 43 to:",
+   "answer": "28",
+   "explanation": "26 RRBs in 10 states were merged into 11, leaving 28 RRBs in 26 states and 2 UTs (Finance Ministry notification, April 2025)."
+  },
+  {
+   "id": "6c288dcd19",
+   "topic": "misc",
+   "q": "Where will the 2026 G20 Leaders' Summit, under the United States' G20 Presidency, be held in December 2026?",
+   "answer": "Miami (Trump National Doral), Florida",
+   "explanation": "The 2026 G20 summit (14-15 Dec 2026) is at Trump National Doral, Miami, Florida. The UK hosts the next one, in Manchester in 2027."
+  },
+  {
+   "id": "84911a20a1",
+   "topic": "misc",
+   "q": "COP31 (9-20 November 2026) will be held in Antalya, Türkiye, with Türkiye holding the COP Presidency. Under the hosting compromise, a minister from which country will preside over the negotiations?",
+   "answer": "Australia",
+   "explanation": "Türkiye's Murat Kurum is COP31 President. Australia's Chris Bowen is Vice-President and 'President of Negotiations'. COP32 will be in Addis Ababa, Ethiopia, in 2027."
+  },
+  {
+   "id": "7341d3baed",
+   "topic": "misc",
+   "q": "Zou Jiayi, who assumed office on 16 January 2026 in succession to Jin Liqun, heads which multilateral development bank?",
+   "answer": "Asian Infrastructure Investment Bank",
+   "explanation": "Zou Jiayi became President of the Beijing-based AIIB on 16 Jan 2026, succeeding its founding President Jin Liqun."
+  },
+  {
+   "id": "ea3f128b39",
+   "topic": "misc",
+   "q": "Which banker was conferred the Padma Bhushan in the Trade & Industry category in the Padma Awards 2026?",
+   "answer": "Uday Kotak",
+   "explanation": "Uday Kotak received the Padma Bhushan 2026 for Trade & Industry (Padma awards announced Jan 2026). Parekh (2006) and Kamath (2008) received theirs earlier."
+  },
+  {
+   "id": "daed0ec676",
+   "topic": "misc",
+   "q": "India won the ICC Men's T20 World Cup 2026 by defeating which team in the final at the Narendra Modi Stadium, Ahmedabad, on 8 March 2026?",
+   "answer": "New Zealand",
+   "explanation": "India beat New Zealand by 96 runs (8 Mar 2026). India became the first team to win three T20 World Cup titles, the first to defend the title and the first to win it at home. Sanju Samson was Player of the Tournament."
+  },
+  {
+   "id": "f32cf75e0f",
+   "topic": "misc",
+   "q": "'Taiwan Travelogue', the winner of the International Booker Prize 2026, was written by whom?",
+   "answer": "Yang Shuang-zi",
+   "explanation": "Yang Shuang-zi's novel, translated by Lin King, won on 19 May 2026. It was the first winner originally written in Mandarin. Banu Mushtaq's 'Heart Lamp' won in 2025."
+  },
+  {
+   "id": "d76f73f318",
+   "topic": "misc",
+   "q": "Exercise 'Nomadic Elephant', whose 18th edition began at Pithoragarh, Uttarakhand, in September 2026, is a joint military exercise between India and which country?",
+   "answer": "Mongolia",
+   "explanation": "Nomadic Elephant is the India-Mongolia army exercise. Its 18th edition began at Pithoragarh (PIB, 21 Sept 2026). India's exercises with the other options are Prabal Dostyk (Kazakhstan), Khanjar (Kyrgyzstan) and Dustlik (Uzbekistan)."
+  },
+  {
+   "id": "7520ee1348",
+   "topic": "topup",
+   "q": "Matsya 6000, India's first indigenous crewed submersible under the Deep Ocean Mission (Samudrayaan), is designed to carry how many aquanauts to a depth of 6,000 m?",
+   "answer": "Three",
+   "explanation": "Matsya 6000 was built by NIOT Chennai (Ministry of Earth Sciences) and carries 3 humans to 6,000 m. A 500 m shallow-water dive was planned for 2026."
+  },
+  {
+   "id": "2cf758a325",
+   "topic": "topup",
+   "q": "The Income-tax Act, 2025 came into force on 1 April 2026 and uses a single 'tax year' concept. Which form has Form 130 replaced?",
+   "answer": "Form 16",
+   "explanation": "Under the Income-tax Act 2025 and Rules 2026 (from 1 Apr 2026), Form 130 replaces Form 16 (the salary TDS certificate) and Form 168 replaces Form 26AS (ET, Feb 2026)."
+  },
+  {
+   "id": "078ac7231b",
+   "topic": "topup",
+   "q": "The India-Oman Comprehensive Economic Partnership Agreement (CEPA) entered into force on:",
+   "answer": "1 June 2026",
+   "explanation": "The CEPA was signed in Muscat on 18 Dec 2025 and came into force on 1 Jun 2026, giving about 99% of Indian exports duty-free access (ET / The Hindu, Jun 2026)."
+  },
+  {
+   "id": "54b5474d6f",
+   "topic": "topup",
+   "q": "What is the reference date for Census 2027, India's first digital census, in most of the country (excluding snow-bound areas)?",
+   "answer": "1 March 2027",
+   "explanation": "The reference date is 00:00 hrs on 1 Mar 2027, and 1 Oct 2026 for snow-bound areas (MHA notification, Jun 2025). Census 2027 also includes caste enumeration."
+  }
+ ]
+}

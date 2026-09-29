@@ -1,0 +1,635 @@
+{
+ "rubric": "Score each candidate fact 1-5 for the chance it is asked in IBPS PO Mains GA on 4 Oct 2026 (50 questions, 60 marks, 35 minutes; 'RBI circulars' is now named in the syllabus). Start from the base score, then apply the modifiers.\n\n5 (very likely): (a) an RBI direction, framework, portal, limit or payments number dated Jun-Sep 2026 that several sources flag and that fits a frequent template (numeric limit or ratio, 'which organisation operates or launched', 'which is NOT' statement); or (b) the latest MPC (3-5 Aug 2026) rates or projections; or (c) an evergreen static-banking number that has come back into the news and was asked more than once in 2024-26 (LRS USD 250,000, DICGC Rs 5 lakh, RTGS UTR of 22 characters, CD minimum 7 days, NPA at 90 days).\n\n4 (likely): a Cabinet scheme approved Jul-Sep 2026 (asked for outlay, implementing agency, ministry or capacity); headline data (Q1 FY27 GDP, CPI, Budget ratios, FSR GNPA, RBI surplus); an RBI approval, stake, licence or CEO change at a named bank or NBFC; India hosting a major summit (BRICS 2026); India's rank in a global index released in the window.\n\n3 (possible): a Jan-May 2026 regulatory or fiscal item (Budget, 16th Finance Commission, ECL directions, RB-IOS launch); sports, awards or heritage news in the window; a fresh fact SBI PO Mains (12 Sep 2026) already asked, which may come back from another angle.\n\n2 (less likely): a single-source or niche item; a second-tier appointment; SEBI or IRDAI internal rules; anything older than 9 months without a new hook.\n\n1 (unlikely): pure static GK with no news hook; HQ or tagline trivia (rare in IBPS PO); RBI penalties on named entities; figures that are still moving (live Asian Games medal tally); facts whose sources disagree.\n\nModifiers:\n- +1 if the fact or its static parent was asked in 2 or more exams in 2024-26 (LRS, DICGC, e-Rupee, PRAVAAH, ombudsman, UPI reach).\n- +1 if it fits the 'statement-based / which is NOT' format, because the whole framework is testable.\n- -1 if the fact is older than 6 months and has had no follow-up news.\n- Cap the score at 5.\n\nExpected mix of about 50 questions: 20-25 RBI/banking/digital (including 6-9 static banking), 8-10 economy/schemes/regulators, 12-15 general (international, sports, awards, indices, heritage).",
+ "facts": [
+  {
+   "area": "RBI monetary policy",
+   "fact": "The RBI MPC met on 3-5 Aug 2026 (the 62nd meeting and the last before the exam; the next is 5-7 Oct 2026). It kept the repo rate at 5.25% for the 4th review in a row, voting 6-0, and kept a neutral stance. Corridor: SDF 5.00%, MSF and Bank Rate 5.50%. Governor: Sanjay Malhotra.",
+   "why": "5/5. Policy rates are asked in almost every banking exam. Every coaching source flags this as the latest MPC, and SBI PO Mains (12 Sep 2026) asked about the SDF (overnight)."
+  },
+  {
+   "area": "RBI monetary policy",
+   "fact": "The Aug 2026 MPC raised the FY27 real GDP projection from 6.6% (June) to 6.7% and cut the FY27 CPI inflation projection from 5.1% to 5.0%. It also released draft guidelines to restart on-tap licensing of urban co-operative banks.",
+   "why": "5/5. SBI PO Mains 2026 asked why GDP was raised to 6.7%. IBPS asked for IMF and RBI projection figures in 2023. The question could ask for the value or for which way it moved."
+  },
+  {
+   "area": "RBI circular - customer protection",
+   "fact": "The Reserve Bank - Integrated Ombudsman Scheme (RB-IOS), 2026 took effect on 1 July 2026, replacing RB-IOS 2021. It covers banks, eligible NBFCs, payment system participants and credit information companies. There is no cap on the disputed amount. The Ombudsman can award up to Rs 30 lakh for consequential loss plus up to Rs 3 lakh for mental agony, harassment and expenses.",
+   "why": "5/5. Several exams asked about the ombudsman scheme (SBI CBO Mar 2026 and SBI PO Sep 2026 asked about the 2021 original). The new 2026 scheme with its Rs 30 lakh + Rs 3 lakh limits is a ready-made numeric or statement question."
+  },
+  {
+   "area": "RBI circular - digital fraud",
+   "fact": "The RBI's final digital fraud compensation framework (24 June 2026) covers small-value digital frauds with net losses up to Rs 50,000. The victim gets 85% of the net loss or Rs 25,000, whichever is lower, once in a lifetime. The fraud must be reported to the bank and to NCRP or helpline 1930 within 5 calendar days. The RBI pays 65%, and the remitter bank and beneficiary bank pay 10% each. The start date was deferred from 1 July 2026 to 1 January 2027.",
+   "why": "5/5. It matches the numeric-limit and RBI-direction templates, many sources flag it, and IBPS repeatedly asks about customer-liability limits."
+  },
+  {
+   "area": "Digital payments - UPI",
+   "fact": "NPCI set a 0.4% MDR on person-to-merchant UPI payments above Rs 2,000 from 15 Oct 2026, capped at Rs 300 per transaction (the cap applies from Rs 75,000 upwards). P2P transfers and payments up to Rs 2,000 stay free, and small merchants are exempt. Select categories such as railways and telecom pay a flat Rs 5 per transaction, and capital-market payments pay 0.02% (capped at Rs 300). The issuer bank gets the largest share of the 40 bps, at 40%.",
+   "why": "5/5. This is fresh news from mid-September 2026 that no exam has used yet. It is a numeric limit in the 'Digital' part of the syllabus title, and many sources carry it."
+  },
+  {
+   "area": "Digital payments - UPI",
+   "fact": "UPI processed a record 24.51 billion transactions worth Rs 29.82 lakh crore in Aug 2026 (791 million a day; 752 live banks). On 30 Aug 2026, NPCI International (NIPL) signed with Uzbekistan's NIPC (operator of the HUMO system) so Indian travellers can pay by scanning UZQR codes. This is UPI's first entry into Central Asia; Uzbekistan is reported as the 11th country, but no rollout date has been given.",
+   "why": "4/5. UPI volume and global-reach questions come up every year (SBI PO 2026 asked 'UPI in how many countries'). UPI also completed 10 years in Aug 2026."
+  },
+  {
+   "area": "RBI regulation - NBFC",
+   "fact": "On 6 Aug 2026 the RBI released the Upper Layer NBFC list for 2026-27, with 17 entities (up from 15). New entrants are REC, PFC, IRFC and HUDCO, and Tata Sons stays on the list. PNB Housing Finance and Sammaan Capital dropped off. An NBFC once placed in the Upper Layer stays under the enhanced framework for at least 5 years.",
+   "why": "5/5. NBFC regulation was asked in 2024 (NOF, RBI action on NBFCs). 'How many NBFCs' or 'which is NOT a new entrant' are natural question forms, and many sources carry it."
+  },
+  {
+   "area": "Bank stake approval",
+   "fact": "The RBI approved LIC to acquire up to 9.99% aggregate holding in ICICI Bank (approval letter received 4 Sep 2026; ICICI disclosed it on 5 Sep 2026). The approval is valid for one year. LIC held about 4.35% as of 30 June 2026.",
+   "why": "4/5. IBPS PO 2023 asked about a 9.99% stake approval (SBI Funds in IndusInd), so 'which entity got RBI approval to buy up to 9.99% of bank X' is an established template, and this news is from the fresh Sep window."
+  },
+  {
+   "area": "Banking law",
+   "fact": "The Bankers' Books Evidence Act, 2026 received Presidential assent on 13 Aug 2026 and comes into force on 1 Oct 2026, replacing the Bankers' Books Evidence Act, 1891. It is technology-neutral: it recognises electronic, digital and cloud records and allows certification by digital or electronic signature.",
+   "why": "5/5. It takes effect 3 days before the exam and several sources flag it. A 'which year's Act does it replace' question (1891) fits the static-with-hook template."
+  },
+  {
+   "area": "RBI circular - cyber",
+   "fact": "On 31 July 2026 the RBI issued seven parallel 'Cybersecurity, Technology: Risk, Resilience and Assurance Framework' Directions, 2026, one for each class of regulated entity, effective immediately. Cyber incidents must be reported within 6 hours through the RBI DAKSH platform. Critical systems need a vulnerability assessment at least every 6 months and a penetration test at least every 12 months.",
+   "why": "4/5. It is a 2026 RBI circular (now named in the syllabus) with specific numbers (6 hours, 6 and 12 months, seven directions). The 2025 paper asked about FREE-AI and other RBI tech frameworks."
+  },
+  {
+   "area": "RBI circular - provisioning",
+   "fact": "The RBI (Commercial Banks - Asset Classification, Provisioning and Income Recognition) Directions, 2026 were issued on 27 Apr 2026 and take effect on 1 Apr 2027. They move banks from incurred-loss to Expected Credit Loss (ECL) provisioning with a 3-stage approach. More than 30 days past due is a rebuttable presumption of Stage 2. The extra provisions can be phased into CET1 over FY2027-28 to FY2030-31. Small finance banks, payments banks and RRBs are excluded.",
+   "why": "4/5. This is a major structural RBI direction. The 30-day Stage 2 trigger and the 1 Apr 2027 date suit a numeric question, and a 'which bank type is excluded' question mirrors the KCC-eligibility question in 2025."
+  },
+  {
+   "area": "RBI report",
+   "fact": "The RBI Financial Stability Report of June 2026 (released July 2026) put scheduled commercial banks' GNPA at a multi-decadal low of 1.8% in March 2026. The baseline projection is about 1.9% by March 2028. CRAR is 17.7% and CET1 15.3%.",
+   "why": "4/5. 'GNPA as per the latest FSR' is a staple economy-data question, and the figure is in the 3-month window."
+  },
+  {
+   "area": "RBI finance",
+   "fact": "On 22 May 2026 the RBI Central Board approved a record surplus transfer of Rs 2.87 lakh crore (Rs 2,86,588.46 crore) to the Centre for FY2025-26, 6.99% more than the Rs 2.68 lakh crore for FY25.",
+   "why": "3/5. It is a standard numeric question but falls just outside the Jun-Sep window. Several sources list it as a hot theme."
+  },
+  {
+   "area": "RBI appointments",
+   "fact": "Rohit Jain became RBI Deputy Governor for 3 years from 3 May 2026, succeeding T. Rabi Sankar. Suman Ray became RBI Executive Director from 1 Sep 2026 and looks after the DICGC department and the Premises Department. The other DGs are Swaminathan J (re-appointed), Poonam Gupta and S.C. Murmu; the Governor is Sanjay Malhotra.",
+   "why": "4/5. 'Who replaced whom' and 'which department' questions about RBI officials recur, and every 2026 paper had 'who heads X' questions."
+  },
+  {
+   "area": "Currency management",
+   "fact": "On 27 July 2026, MoS Finance Pankaj Chaudhary told the Lok Sabha that the government had approved an RBI field trial of polymer (plastic) banknotes in Rs 10 and Rs 20 denominations, 1 billion notes of each. Paper notes will continue.",
+   "why": "4/5. It is linked to the August MPC and many sources flag it. Denomination or quantity questions are easy to frame, and IBPS 2025 asked about currency-handling circulars."
+  },
+  {
+   "area": "RBI index",
+   "fact": "The RBI Financial Inclusion Index (FI-Index) rose to 70.0 in March 2026 from 67.0 in March 2025 (released July 2026). The index has 97 indicators and no base year. Weights: Access 35%, Usage 45%, Quality 20%. Usage drove most of the rise.",
+   "why": "4/5. RBI index values and sub-index weights are a favourite numeric or 'which is NOT a parameter' question, and this release is in the window."
+  },
+  {
+   "area": "RBI regulation - UCBs",
+   "fact": "The RBI's August 2026 draft framework restarts on-tap licensing of urban co-operative banks, which had been paused since 2004. Eligibility: at least 10 years of operation as a credit co-operative society, deposits of Rs 10,000 crore or more, net worth of Rs 300 crore or more, CRAR of at least 12%, and net NPA of 3% or less.",
+   "why": "4/5. UCB capital norms were asked in 2024 (UCB CRAR 9%). The numeric thresholds are ideal questions, and the item came out with the August MPC."
+  },
+  {
+   "area": "Bank licence cancellation",
+   "fact": "The RBI cancelled Paytm Payments Bank's licence with effect from 24 Apr 2026. The Delhi High Court ordered it to be wound up (orders of 8 and 22 July 2026) under the Banking Regulation Act, 1949. Girikumar M. Nair, a former SBI CGM, is the Official Liquidator.",
+   "why": "3/5. It is major banking news in the window and fits the 'which bank' or 'which Act' template, though RBI-action questions are rarer in IBPS PO."
+  },
+  {
+   "area": "RBI regulation - gold loans",
+   "fact": "The RBI's gold and silver collateral lending directions took effect on 1 Apr 2026. Loan-to-value limits are 85% for loans up to Rs 2.5 lakh, 80% for Rs 2.5-5 lakh and 75% above Rs 5 lakh, applying to banks, NBFCs, co-operative banks and HFCs. Loans up to Rs 2.5 lakh need no mandatory credit appraisal.",
+   "why": "4/5. It is a numeric-limit template (IBPS 2024 asked about LTV-style limits) and appears in many coaching capsules."
+  },
+  {
+   "area": "Bank leadership",
+   "fact": "The RBI approved (7 July 2026) Mahesh Muralidhar Pai, a Canara Bank CGM, as MD & CEO of South Indian Bank for 3 years from 1 Oct 2026. HDFC Bank MD & CEO Sashidhar Jagdishan declined reappointment and retires on 26 Oct 2026.",
+   "why": "4/5. IBPS 2024 asked 'Partha Pratim Sengupta earlier worked at which bank', and the SIB appointment takes effect 3 days before the exam."
+  },
+  {
+   "area": "Static banking (evergreen, repeated)",
+   "fact": "The LRS limit is USD 2,50,000 per financial year per resident individual. An RTGS UTR has 22 characters, and the RTGS minimum is Rs 2 lakh. The minimum maturity of a Certificate of Deposit is 7 days. DICGC insures up to Rs 5 lakh per depositor per bank. Since 1 Apr 2026, DICGC charges a risk-based premium in place of the old flat 12 paise per Rs 100 (safest category A pays 8 paise). Payments banks cannot issue KCC.",
+   "why": "5/5. LRS was asked in IBPS PO 2024 and 2025 and SBI CBO 2026. UTR and CD were asked in SBI PO 2026. DICGC was asked in 2024 and 2025. Evergreen facts repeat across exams."
+  },
+  {
+   "area": "Economy data",
+   "fact": "India's real GDP grew 7.8% in Q1 FY27 (Apr-Jun 2026), according to NSO data released 31 Aug 2026. That beat the RBI's 7.0% projection and compares with 6.9% a year earlier and 8.6% in Q4 FY26. Nominal GDP grew 10.3% and real GVA 8.2%. Manufacturing grew 9.2% and services about 10%.",
+   "why": "4/5. It is the latest quarterly print before the exam. Economy data takes 3-5 questions per paper."
+  },
+  {
+   "area": "Economy data",
+   "fact": "CPI inflation for Aug 2026 (base 2024=100, released 14 Sep 2026) was 4.82%, with food inflation at 5.95%. Rural inflation was 5.23% and urban 4.31%. The CPI base year moved from 2012 to 2024 with the January 2026 release.",
+   "why": "4/5. A 'new CPI base year' question (2024) fits the static-with-hook template, and the August print is the latest before the exam."
+  },
+  {
+   "area": "Union Budget",
+   "fact": "Union Budget 2026-27 (1 Feb 2026) sets the fiscal deficit at 4.3% of GDP (FY26 RE: 4.4%) and raises capex from Rs 11.2 lakh crore to Rs 12.2 lakh crore. Central debt is 55.6% of GDP, with a target of about 50% (+/-1) by March 2031.",
+   "why": "3/5. The Budget typically gives 1-2 questions even at an October exam. The fiscal deficit and capex figures are the most-asked items."
+  },
+  {
+   "area": "Finance Commission",
+   "fact": "The 16th Finance Commission (chairman Arvind Panagariya; award period 2026-27 to 2030-31; report tabled 1 Feb 2026) kept states' share of central taxes at 41%. It added a new criterion, 'contribution to national GDP' (10% weight), replacing 'tax and fiscal effort' (2.5% under the 15th FC).",
+   "why": "4/5. It was asked in SEBI Grade A (Jan 2026) and RBI Grade B (Jun 2026), and IBPS PO 2023 asked 'who determines tax share'. The new criterion suits a 'which is NOT' question."
+  },
+  {
+   "area": "Government scheme",
+   "fact": "PM Surya Sarovar Yojana (PM-SSY) was approved by the Cabinet on 31 Jul 2026 with an outlay of Rs 5,070 crore. It targets 5,000 MW of floating solar PV with co-located storage of at least 2 hours (10,000 MWh). It gives Rs 1 crore per MW central financial assistance plus up to Rs 50 lakh per project for feasibility studies. Projects are sanctioned FY27-FY31, the ministry is MNRE, and SECI implements.",
+   "why": "4/5. SBI PO 2026 asked for the scheme name, so IBPS may ask a different angle (outlay, capacity, implementing agency). Scheme outlays were asked in IBPS 2025."
+  },
+  {
+   "area": "Government scheme",
+   "fact": "The Cabinet (31 Jul 2026) continued PM-KISAN from 2026-27 to 2030-31 with an outlay of Rs 3.15 lakh crore. The benefit stays at Rs 6,000 a year per eligible landholding farmer family, paid in 3 equal DBT instalments.",
+   "why": "4/5. IBPS 2025 asked a true-statement question on PM-KISAN, and scheme 'outlay and end date' questions (like PM SVANidhi to 2030) are a proven template."
+  },
+  {
+   "area": "Social security / labour",
+   "fact": "On 16 Sep 2026 the Cabinet raised the EPFO wage ceiling for mandatory coverage from Rs 15,000 to Rs 25,000 a month, effective 17 Sep 2026 (notified under the Code on Social Security, 2020). More than 51 lakh extra employees are expected to be covered. The ceiling had been Rs 15,000 since Sep 2014.",
+   "why": "5/5. It is fresh (mid-Sep 2026), a clean number, and appears in many sources. No exam has asked it yet."
+  },
+  {
+   "area": "Trade agreement",
+   "fact": "The India-UK Comprehensive Economic and Trade Agreement (CETA), signed in July 2025, came into force on 15 July 2026. It gives duty-free access to about 99% of India's exports to the UK. The Double Contribution Convention (social security agreement) took effect the same day.",
+   "why": "4/5. Trade pacts were asked in RBI Grade B, LIC HFL and SBI CBO in 2026, and the entry into force falls in the window."
+  },
+  {
+   "area": "Regulators - SEBI",
+   "fact": "At its board meeting on 24 Sep 2026, SEBI approved the SEBI (Portfolio Managers) Regulations, 2026, replacing the 2020 regulations. PMS can now invest in IPOs, in foreign securities (within the LRS/FEMA limits), and up to 10% of client AUM in unlisted investment-grade debt. Derivatives exposure is allowed up to 1.25x client AUM.",
+   "why": "3/5. It is very fresh (10 days before the exam) and SEBI questions appear in most papers, but detailed SEBI rules are less often asked in PO Mains."
+  },
+  {
+   "area": "CPSE status",
+   "fact": "On 19 June 2026 Chennai Petroleum Corporation Ltd (CPCL, under the Ministry of Petroleum and Natural Gas) was upgraded from Miniratna Category-I to Navratna, becoming India's 28th Navratna CPSE. A Navratna can invest up to Rs 1,000 crore or 15% of net worth in a single project without government approval.",
+   "why": "3/5. SBI PO 2026 asked it. It may repeat in a different form, such as the Navratna number or the investment limit."
+  },
+  {
+   "area": "International summit",
+   "fact": "India hosted the 18th BRICS Summit at Bharat Mandapam, New Delhi, on 12-13 Sep 2026, chaired by PM Modi. The theme was 'Building for Resilience, Innovation, Cooperation and Sustainability'. This is India's 4th BRICS chairship (after 2012, 2016 and 2021). Members: Brazil, Russia, India, China, South Africa, Egypt, Ethiopia, Iran, UAE and Indonesia.",
+   "why": "5/5. It is the biggest international event in the window, 'which country hosted or what theme' is a staple, and SBI PO asked about the 1st and 17th BRICS hosts."
+  },
+  {
+   "area": "Heritage",
+   "fact": "Sarnath (Uttar Pradesh), including the Dhamekh Stupa and Chaukhandi Stupa, became India's 45th UNESCO World Heritage Site on 25 July 2026 at the 48th World Heritage Committee session in Busan, South Korea. India now ranks 6th in the world by number of sites.",
+   "why": "4/5. SBI PO 2026 asked it, and IBPS PO 2023 asked about the '42nd UNESCO site'. A follow-up could ask the session venue (Busan) or India's rank."
+  },
+  {
+   "area": "Awards",
+   "fact": "The 72nd National Film Awards were presented by the President on 22 Sep 2026 at Ekta Nagar (Kevadia), Gujarat, the first ceremony held outside New Delhi. Best Feature Film: Article 370 (dir. Aditya Suhas Jambhale). Best Actor was shared by Mammootty (Bramayugam) and Kartik Aaryan (Chandu Champion). Best Actress: Yami Gautam. Anant Nag received the Dadasaheb Phalke Award (for 2024).",
+   "why": "4/5. It was asked in RBI Assistant (71st) and SBI PO (72nd), and the ceremony on 22 Sep adds a new venue and Phalke angle."
+  },
+  {
+   "area": "Index / report",
+   "fact": "The UN SDSN Sustainable Development Report 2026 ranks India 94th of 167 countries in the SDG Index, its best ever (up from 99th), with a score of 68.3. Finland is 1st, then Sweden and Denmark.",
+   "why": "4/5. An India-rank question fits the template (IBPS 2024 asked a Nature Conservation Index rank), and SBI PO 2026 asked which country tops the SDG Index."
+  },
+  {
+   "area": "Index / report",
+   "fact": "India rose 9 places to 31st of 110 economies in the WEF Travel & Tourism Development Index 2026 (released late Sep 2026, prepared with Zurich Insurance Group), with a score of 4.42 out of 7. Japan is 1st, then the US and Spain.",
+   "why": "4/5. It is a very fresh India-rank item (about 25-26 Sep 2026) that no exam has used yet."
+  },
+  {
+   "area": "Business / rankings",
+   "fact": "The M3M Hurun India Rich List 2026 (released 23 Sep 2026) is led by Gautam Adani & family with Rs 9.23 lakh crore, ahead of Mukesh Ambani & family (Rs 8.63 lakh crore), with L.N. Mittal & family 3rd (Rs 3.39 lakh crore). The list has 1,810 individuals worth Rs 1,000 crore or more.",
+   "why": "3/5. 'Who tops the Hurun list' is a common one-liner, and it is fresh, though rich-list questions are less frequent in PO Mains."
+  },
+  {
+   "area": "Sports",
+   "fact": "At the 2026 Commonwealth Games in Glasgow, India finished 4th with 39 medals (13 gold, 17 silver, 9 bronze). Boxing won a record 7 golds (10 medals in all). Wrestling, badminton, shooting, hockey and table tennis were excluded. The 2030 CWG will be held in Ahmedabad.",
+   "why": "4/5. SBI PO asked the 2030 host. A position or medal-count question is likely, since sports takes 3-5 questions per paper."
+  },
+  {
+   "area": "Sports",
+   "fact": "The 20th Asian Games (Aichi-Nagoya, Japan, 19 Sep - 4 Oct 2026) opened at Paloma Mizuho Stadium, declared open by Emperor Naruhito. India's flag-bearers were Manu Bhaker and kabaddi's Pawan Sehrawat (replacing Tajinderpal Singh Toor), leading a contingent of about 501. Prepare the venue and flag-bearers only; the medal tally is still changing.",
+   "why": "4/5. The Games run up to exam day. A venue or flag-bearer question is the safe form."
+  },
+  {
+   "area": "Sports",
+   "fact": "Spain won the 2026 FIFA World Cup (hosted by the USA, Canada and Mexico), beating Argentina 1-0 after extra time in the final on 19 July 2026 with a goal by Ferran Torres. It is Spain's 2nd title (the first was 2010). Rodri won the Golden Ball.",
+   "why": "3/5. It is the biggest global sports event in the window. The winner, runner-up and Golden Ball are the usual angles."
+  },
+  {
+   "area": "International organisations - appointments",
+   "fact": "On 4 June 2026 the ACC approved economist Neelkanth Mishra (Axis Bank Chief Economist, IIT Kanpur alumnus) as India's Executive Director at the World Bank for 3 years. He succeeds Parameswaran Iyer and represents India, Bangladesh, Bhutan and Sri Lanka.",
+   "why": "3/5. SBI PO 2026 asked it, and 'who heads' questions about the World Bank recur (RBI Assistant 2026). IBPS could ask which countries share his constituency."
+  }
+ ],
+ "research": [
+  {
+   "key": "past-papers",
+   "summary": "- Papers analysed: IBPS PO Mains 5 Nov 2023 (40 questions; AffairsCloud collected 38), 30 Nov 2024 (two shifts, 40 each; 37 and 38 collected) and 12 Oct 2025 (35 questions for 40 marks). As cross-checks I also used IBPS Clerk Mains 29 Nov 2025 and SBI PO Mains 12 Sep 2026 (60 questions). The SBI paper was set in the same news window as your exam.\n- Current vs static, using AffairsCloud's tags: 2023 was 33 current and 5 static (about 87/13). 2024 Shift 1 was 28 current, 6 static banking and 3 \"current-static\" banking (about 75/25). 2024 Shift 2 was 25 current, 7 static banking, 4 current-static and 1 static GK (about 66/34). 2025 was 29 current, 4 static banking and 2 static GK (about 83/17). Smartkeeda scored 2025 more strictly: only 17 of 35 (49%) were pure current affairs. On average, expect about 70-80% current and 20-30% static or \"static fact that was in the news\".\n- Recency window: 2023 was mostly the last 3 months (Aug-Nov 2023), with a tail back to Feb-Apr 2023. 2024 was mostly the last 5 months. 2025 was mostly the last 5 months (May-Oct 2025), and some news was very recent: Zapad in Sep 2025, the Vice-President election in Sep 2025 and Typhoon Ragasa about 3 weeks before the exam. SBI PO Mains 2026 drew on a 4-month window (May-Sep 2026). For 4 Oct 2026, the main window is June-Sep 2026, with about 15-20% from Jan-May 2026 (Budget, Economic Survey, directions issued in April).\n- The biggest trend is RBI regulation. RBI circulars, directions, portals and limits rose from about 4 of 38 questions (2023) to about 6-8 per 2024 shift to about 10-11 of 35 (2025). Examples: PRAVAAH, LRS limit, AePS operator, Guarantee and Co-acceptance directions, FREE-AI sutras, RBI Citizens' Charter, counterfeit-note procedure, e-Rupee minimum balance, the CDES soiled-note incentive, small-account limits and DICGC exclusions. The 2026 syllabus now names \"RBI circulars\" explicitly, so expect about 12-18 of 50 questions here.\n- Numeric-limit questions are the most common single form, especially in 2024. Examples: NBFC net owned fund of Rs 10 crore, UCB CRAR of 9%, SFB priority-sector lending at 75%, SLR ceiling of 40%, DRT filing threshold of Rs 20 lakh, HFC deposits capped at 1.5x NOF, UPI123Pay and UPI Lite limits, Sukanya Samriddhi rate of 8.2%, LRS USD 250,000. Learn the exact number, date and percentage, not just the headline.\n- Question formats have shifted from one-line facts (2021-22) to statement-based, \"which is NOT\" and \"incorrect pair\" questions (2023-25). About 4-6 per paper use this format. Examples: the component not in India's DPI ecosystem (E-Kuber), the FREE-AI sutra that is not included, a mismatched AI tool, true statements about Padma awards, Soil Health Card and PM-KISAN, and deposits DICGC does not insure. This format rewards knowing a whole scheme or framework rather than one fact.\n- \"Which bank or company launched, partnered or got approval for X\" appears 4-8 times per paper. Examples: PhonePe's Pincode, Axis Bank and Fibe's numberless card, HDFC Pension's NPS Preference Index, the IFC-Axis Bank USD 500 mn loan, LIC's stake in Bank of Maharashtra, SIDBI-IPPB and IEPFA-IPPB tie-ups. Easy RBI penalty questions and headquarters or tagline questions are almost absent from IBPS PO Mains. They were more common in SBI PO 2026 (for example, IIB's headquarters, BNP Paribas' home country, Mitsui Bank's origin).\n- Government schemes appear 3-5 times per paper. The fact asked is usually the outlay, end date, ministry or statement-true, not the launch date. Examples: PM SVANidhi (Rs 7,332 cr, to 31 Mar 2030), Lakhpati Didi's ministry, the PMAY-G outlay, the Cabinet's 7 farmer schemes, VGF at 40%, RoDTEP's extension date.\n- International news appears 4-6 times per paper, usually as \"which country or countries\". Examples: Zapad hosts, EAEU members, Project Nexus' new member, WFP fortified rice, the Iron Dome country, the D-Day site, FATF lists, the Winter Olympics venue.\n- Economy data, ratings and indices appear 3-5 times per paper. Examples: IMF GDP projection, S&P upgrade to BBB, India's refining rank, Nature Conservation Index rank 176, Swachh Vayu Survekshan, PSB H1 profit growth, the month with the highest GST.\n- Science, space and acronyms appear 2-4 times. Examples: GLOF, LIDAR, APPLE, Psyche, Venus mission year, Pushpak.\n- Pure static GK is small: 1-3 questions. Examples: Gulf of Mannar has 21 islands, Longpi pottery is from Manipur, UNCLOS EEZ is 200 nm, El Nino is in the Pacific.\n- Facts repeat across years and exams. LRS USD 250,000 was asked in 2024 and 2025. Tokenisation was asked in 2023 and 2024. DICGC was asked in 2024 and 2025. CBDC or e-Rupee was asked by IBPS PO 2025 and SBI PO 2026. Always revise static banking facts that come back into the news.\n- Coverage: even top current-affairs sources covered only 80-90% of each paper. The questions they missed were mostly deep static banking, such as lead-bank committees, NPS custodian term, insurance riders and CDES incentives. Keep a fixed static-banking list alongside monthly current affairs.\n- 2026 format: 50 questions, 60 marks, 35 minutes (1.2 marks per question; the penalty is one quarter, 0.30 per wrong answer). With about 42 seconds per question, statement-based items are the time sink.",
+   "questionTypes": [
+    {
+     "type": "RBI circular / direction / framework: 'Under RBI's <X> Directions/framework, which of the following is correct / what is the limit / which entity operates it / which sutra is NOT included'",
+     "example": "IBPS PO Mains 2025: 'Which of the following is NOT among the 7 sutras of RBI's FREE-AI framework?' (Productivity); 'Which organisation operates AePS as per RBI's June 2025 directions?' (NPCI); 'RBI guidelines on Guarantee & Co-acceptance'",
+     "share": "4 of 38 (2023) -> 6-8 per shift (2024) -> 10-11 of 35 (2025); expect 12-18 of 50 in 2026"
+    },
+    {
+     "type": "Regulatory numeric limit / ratio / capital requirement: 'What is the minimum NOF / maximum limit / CRAR / PSL target for <entity>?'",
+     "example": "IBPS PO Mains 2024 Shift 1: 'Minimum net-owned fund for NBFC?' (Rs 10 crore); 'Urban Co-operative Banks CAR requirement?' (9%); 'Small Finance Bank PSL target?' (75%); Shift 2: 'Maximum SLR limit?' (40%)",
+     "share": "4-9 of 40 (highest in 2024); 3-4 of 35 in 2025"
+    },
+    {
+     "type": "Remittance / payments limits: 'What is the limit under LRS / UPI123Pay / UPI Lite / Indo-Nepal remittance / e-Rupee wallet?'",
+     "example": "IBPS PO Mains 2025: 'Annual remittance limit for resident individuals under RBI's Liberalised Remittance Scheme?' (USD 2,50,000 per FY). The same fact was asked in 2024 Shift 2. 2024 Shift 1: 'Maximum limit for UPI123Pay and UPI Lite wallet?'",
+     "share": "1-3 per paper, and repeats year to year"
+    },
+    {
+     "type": "Which organisation launched <portal / app / tool / report>?",
+     "example": "IBPS PO Mains 2025: 'Which organisation launched the PRAVAAH portal?' (RBI); 'Who authored the 2025 report Growing Retail Digital Payments?' (IMF). 2024: DICGC's claim-tracking tool (Daava Soochak), DoCA's e-Jagriti. 2023: BIS Care app",
+     "share": "2-4 per paper"
+    },
+    {
+     "type": "Which bank / company launched a product, partnered, signed an MoU or received an RBI approval or stake?",
+     "example": "IBPS PO Mains 2023: 'First numberless credit card launched by?' (Axis Bank and Fibe); 'Which entity received RBI approval for a 9.99% stake in IndusInd Bank?' (SBI Funds Management). 2024 Shift 2: 'IFC partnered with which bank for a USD 500 mn loan?' (Axis Bank)",
+     "share": "4-8 per paper"
+    },
+    {
+     "type": "Government scheme: outlay, end date, ministry, benefit limit, or which statement is true",
+     "example": "IBPS PO Mains 2025: 'PM SVANidhi budgetary outlay and revised end date' (Rs 7,332 cr; 31 Mar 2030). 2024: 'Lakhpati Didi implemented by which ministry?' (Rural Development); 'Maximum interest rate for Sukanya Samriddhi Yojana?' (8.2%)",
+     "share": "3-5 per paper"
+    },
+    {
+     "type": "Static banking concepts and institutions: eligibility, definitions, which deposits or entities are covered or not covered",
+     "example": "IBPS PO Mains 2025: 'Which bank type is not eligible to issue Kisan Credit Cards?' (Payments Bank); deposits NOT insured by DICGC; QIP definition; Lead Bank Scheme committees. 2023: 'Who determines tax share between Centre and States?' (Finance Commission)",
+     "share": "3-7 per paper (about 4-7 in 2024 per shift, 4-5 in 2025)"
+    },
+    {
+     "type": "Statement-based / 'which is NOT' / 'incorrect pair' (a format used across several topics)",
+     "example": "IBPS PO Mains 2023: 'Which is NOT part of India's DPI ecosystem?' (E-Kuber). 2025: 'Identify the incorrect pairing of AI tools and organisations'; 'Which statements about Padma Awards (posthumous, prize, self-nomination) are correct?'",
+     "share": "4-6 per paper (rising since 2023)"
+    },
+    {
+     "type": "Economy data / rating / India's rank in <index> by <org>",
+     "example": "IBPS PO Mains 2025: 'S&P Global Ratings upgraded India to?' (BBB, Aug 2025). 2024: 'India's rank in the Global Nature Conservation Index 2024?' (176 of 180). 2023: 'IMF projected India's GDP for FY24 and FY25 at?' (5.9% and 6.3%)",
+     "share": "3-5 per paper"
+    },
+    {
+     "type": "International: which country or countries hosted a summit or exercise, member states, global event",
+     "example": "IBPS PO Mains 2025: 'Which countries hosted the 9th Zapad military exercise (Sept 2025)?' (Russia and Belarus); 'Member states of the EAEU'. 2024 Shift 2: 'Which non-founding member joined Project Nexus with RBI?' (UAE)",
+     "share": "4-6 per paper"
+    },
+    {
+     "type": "Who is / who was appointed / who headed a committee",
+     "example": "IBPS PO Mains 2025: 'C.P. Radhakrishnan (15th Vice-President) was earlier Governor of which state?' (Maharashtra). 2023: 'Who chaired the One Nation One Election committee?' (Ram Nath Kovind). 2024: Partha Pratim Sengupta's earlier bank (Indian Overseas Bank)",
+     "share": "2-4 per paper"
+    },
+    {
+     "type": "Awards, books, films, sports and prize money",
+     "example": "IBPS PO Mains 2024 Shift 1: 'What is the prize money for the Booker Prize?' (GBP 50,000); 'Director of India's Oscar entry Laapataa Ladies?' (Kiran Rao). 2024 Shift 2: 'Golden Road' author (William Dalrymple)",
+     "share": "2-4 per paper"
+    },
+    {
+     "type": "Science, space, defence and acronyms: 'What does <letter> stand for in <acronym>?'",
+     "example": "IBPS PO Mains 2025: 'In ISRO's APPLE satellite, what does A stand for?' (Ariane). 2024: 'In LIDAR, R stands for?' (Ranging). 2023: 'O in GLOF?' (Outburst); 'NASA Psyche targets an asteroid between which planets?' (Mars and Jupiter)",
+     "share": "2-4 per paper"
+    },
+    {
+     "type": "Static GK, geography and heritage",
+     "example": "IBPS PO Mains 2025: 'Number of islands in the Gulf of Mannar?' (21). 2023: 'Longpi pottery originates from?' (Manipur); '42nd UNESCO World Heritage Site?' (Sacred Ensembles of the Hoysalas)",
+     "share": "1-3 per paper"
+    },
+    {
+     "type": "RBI action / penalty / business restriction on a named entity",
+     "example": "IBPS PO Mains 2024 Shift 1: the question on RBI action against NBFCs (Navi Finserv, Asirvad, Arohan, DMI Finance)",
+     "share": "0-1 per paper (rare in PO Mains)"
+    },
+    {
+     "type": "Headquarters / tagline / country of origin of a bank or institution",
+     "example": "Almost absent in IBPS PO Mains 2023-25. SBI PO Mains 2026 asked it: 'Insurance Information Bureau HQ?' (Hyderabad); 'BNP Paribas HQ?' (France); 'Mitsui Bank origin?' (Japan)",
+     "share": "0-1 in IBPS PO; about 3 of 60 in SBI PO 2026"
+    }
+   ],
+   "hotThemes": [
+    "RBI MPC, 3-5 Aug 2026 (latest before the exam; the next MPC is 5-7 Oct 2026, after the exam): repo unchanged at 5.25% (fourth hold in a row), neutral stance, SDF 5.00%, MSF and Bank Rate 5.50%, FY27 GDP forecast raised to 6.7%, FY27 CPI forecast 5.0%, polymer (plastic) notes expected from next FY after field trials, draft norms to restart UCB licensing, proposal to harmonise interest-rate rules across regulated entities.",
+    "RBI Cybersecurity, Technology Risk, Resilience and Assurance Framework Directions, 2026 (31 July 2026): seven parallel directions, one per entity class; replaces the 2016 Cyber Security Framework; vulnerability assessment every 6 months, annual penetration tests, half-yearly disaster-recovery drills.",
+    "RBI Governance Amendment Directions (14 July 2026): consolidated framework for matters placed before the Board, covering commercial banks, SFBs, payments banks and local area banks; effective 1 Oct 2026.",
+    "Draft RBI (Interest Rates on Loans and Advances) Directions, 2026 (Aug 2026): proposed effective date 1 Apr 2027.",
+    "RBI Asset Classification, Provisioning and Income Recognition Directions, 2026 (27 Apr 2026, effective 1 Apr 2027): moves to Expected Credit Loss (ECL) with 3 stages; more than 30 days past due is presumed Stage 2; full EIR migration by 31 Mar 2030; SFBs, payments banks and local area banks are excluded.",
+    "Other RBI items, Sep 2026: revised valuation framework for REIT/InvIT units held by banks and AIFIs (22 Sep 2026); all cash-handling staff to be trained in counterfeit detection by 31 Oct 2026. Counterfeit-note procedure was asked in 2025.",
+    "RBI appointments: Rohit Jain became Deputy Governor from May 2026 (3 years, replacing T. Rabi Sankar); Swaminathan J re-appointed Deputy Governor for 2 years from 26 Jun 2026.",
+    "Union Budget 2026-27: fiscal deficit 4.3% of GDP (RE 2025-26: 4.4%); debt-to-GDP 55.6%, target 50 +/-1% by 2030-31; capex Rs 12.2 lakh cr; gross market borrowing Rs 17.2 lakh cr (net Rs 11.7 lakh cr); a High-Level Committee on Banking announced.",
+    "Cabinet schemes, Jul-Aug 2026: PM Surya Sarovar Yojana (approved 31 Jul 2026; Rs 5,070 cr; 5,000 MW floating solar with at least 10,000 MWh storage; Rs 1 cr/MW support; MNRE ministry, SECI implements), which SBI PO 2026 already asked; PM-KISAN extended 2026-27 to 2030-31 (Rs 3.15 lakh cr); Modified UDAN (Rs 28,840 cr over 10 years); GOBARdhan compressed-biogas scheme (Rs 23,731 cr); ITI upgradation (Rs 60,000 cr); Mobile Phone Manufacturing Scheme (Rs 62,500 cr).",
+    "Indices 2026: SDG Index 2026, India 94th (best ever, up from 99th); WEF Travel and Tourism Index 2026, India 31st (up 9 places; Japan tops); India 2nd in global seafarer supply (BIMCO-ICS).",
+    "Facts from SBI PO Mains, 12 Sep 2026, that are in the same window and may repeat: Sarnath is India's 45th UNESCO World Heritage Site; CPCL got Navratna status (June 2026); UPI is live in 11 countries; EbixCash was the first non-bank AD-II licensee; PFRDA launched Pension Sahayak (AI grievance tool); Slice SFB opened an AI 'phygital' branch in Assam; PNB tied up with DIBD for multilingual AI banking; Bank of Baroda signed an MoU with Mizuho; LIC MD and CEO R. Doraiswamy; 72nd National Film Awards (Article 370); 2030 Commonwealth Games in Ahmedabad; Matsya 6000.",
+    "PSB consolidation: the government says it wants more large, world-class banks and has held talks with RBI and the PSBs, but has no formal plan; there are 12 PSBs today. Treat any official merger announcement from Aug-Sep 2026 as a likely question.",
+    "Evergreen static-banking numbers that repeat: LRS USD 250,000 per FY; RTGS UTR has 22 characters; CD minimum maturity 7 days; SDF is overnight; SLR is maintained daily; DICGC cover of Rs 5 lakh and which deposits are excluded; KCC not issued by payments banks; small-account limits; NBFC NOF; SFB and UCB capital and PSL norms; NCFE promoters (RBI, SEBI, IRDAI, PFRDA).",
+    "Digital payments and DPI (asked every year since 2023): UPI limits, UPI's global reach, e-Rupee (CBDC) wallets and pilots, AePS, tokenisation, the RBI Digital Payments Index, Project Nexus, FREE-AI."
+   ],
+   "sources": [
+    "https://affairscloud.com/ga-questions-asked-in-ibps-po-mains-exam-2023-november-5/",
+    "https://affairscloud.com/ga-questions-asked-in-ibps-po-mains-exam-2024-november-30/",
+    "https://affairscloud.com/ga-questions-asked-in-ibps-po-mains-exam-2025-october-12/",
+    "https://www.bankersadda.com/ga-questions-asked-in-ibps-po-mains-exam-2023/",
+    "https://www.smartkeeda.com/blog/ga-questions-asked-in-ibps-po-mains-exam-12-october-2025",
+    "https://guidely.in/blog/ga-questions-asked-in-ibps-po-mains",
+    "https://www.oliveboard.in/blog/ga-questions-asked-in-ibps-po-exams/",
+    "https://www.oliveboard.in/ibps-po-exam-pattern/",
+    "https://news.careers360.com/ibps-po-mains-2026-admit-card-out-direct-link-october-4-banking-exam-sarkari-naukri",
+    "https://affairscloud.com/ga-questions-asked-in-ibps-clerk-mains-exam-2025-november-29/",
+    "https://affairscloud.com/ga-questions-asked-in-sbi-po-mains-exam-2026-september-12/",
+    "https://www.bankersadda.com/ga-questions-asked-in-sbi-po-mains-exam-2026/",
+    "https://www.bankersadda.com/ga-questions-asked-in-rbi-assistant-mains-exam-2026/",
+    "https://www.forbesindia.com/article/news/rbi-mpc-live-updates-august-2026-repo-rate-sanjay-malhotra-policy-announcement-liveblog/2996705/1",
+    "https://www.outlookmoney.com/banking/rbi-mpc-august-2026-meeting-live-updates-governor-sanjay-malhotra-speech-repo-rate-inflation-gdp-news",
+    "https://www.legal500.com/intelligence/india/finance-and-banking/rbi-notifies-reserve-bank-of-india-commercial-banks-%E2%80%93-asset-classification-provisioning-and-income-recognition-directions-2026",
+    "https://www.medianama.com/2026/08/223-rbi-cybersecurity-framework-commercial-banks/",
+    "https://www.corplawupdates.in/updates/rbi-governance-amendment-directions-board-matters-2026",
+    "https://www.bankingfinance.in/rbi-circular-for-september-2026.html",
+    "https://blog.cafunsta.com/daily-current-affairs-september-22-2026-pdf-download-bank-exams/",
+    "https://www.drishtiias.com/state-pcs-current-affairs/rohit-jain-appointed-as-rbi-deputy-governor",
+    "https://prsindia.org/files/budget/budget_parliament/2026/Union_Budget_Analysis-2026-27.pdf",
+    "https://www.insightsonindia.com/2026/02/01/union-budget-2026-27-highlights-upsc/",
+    "https://www.pmindia.gov.in/en/news_updates/cabinet-approves-pradhan-mantri-surya-sarovar-yojana-pm-ssy-for-development-of-floating-solar-photovoltaic-projects-with-energy-storage-systems-with-a-total-outlay-of-rs-5070-crore/",
+    "https://www.pmindia.gov.in/en/news_updates/cabinet-approves-continuation-of-the-pm-kisan-scheme-from-2026-27-to-2030-31-with-a-financial-outlay-of-rs-3-15-lakh-crore/",
+    "https://www.businesstoday.in/latest/world/story/india-jumps-9-spots-to-rank-31st-in-wef-travel-tourism-index-2026-japan-tops-list-557948-2026-09-26",
+    "https://forumias.com/blog/un-sustainable-development-goals-sdg-index-2026/",
+    "https://www.outlookbusiness.com/news/psb-consolidation-to-gain-momentum-in-2026-as-govt-eyes-big-world-class-banks",
+    "https://www.practicemock.com/blog/ibps-po-most-probable-ga-questions-2026-get-free-pdf/"
+   ]
+  },
+  {
+   "key": "recent-exams",
+   "summary": "- Evidence base: memory-based GA papers from SBI PO Mains (12 Sep 2026, about 53 questions recalled with answers), RBI Grade B Phase 1 (13 Jun 2026, 80 questions, topic list), RBI Assistant Mains (7 Jun 2026), LIC HFL JA (6 Jun 2026), SBI CBO (14 Mar 2026), SEBI Grade A (10 Jan 2026), plus the IBPS PO Mains (12 Oct 2025), IBPS Clerk Mains (Nov 2025) and IBPS RRB PO Mains (28 Dec 2025) papers from the previous season. Coaching sites recalled all of these papers after the exams, and some answers they reported may be wrong (for example \"UPI in 11 countries\" and \"BHIM in 20 languages\").\n- The IBPS PO Mains 2025 GA section (35 questions) was 29/35 current affairs. It leaned on RBI notifications and portals (PRAVAAH, e-BHAVISHYA), schemes (PM SVANidhi 2.0, Vibrant Villages 2), and statement-based, \"which is NOT\", true/false or match-type questions. Current affairs reached back 9-12 months, but most came from the last 4-6 months.\n- The 2026 IBPS pattern (50 questions / 60 marks / 35 min) adds \"Digital & Financial Awareness incl. RBI circulars\" to the section title. That points to more questions than before on UPI, CBDC, payment systems, RBI directions and portals, and fewer on pure static GK.\n- SBI PO Mains 2026 (3 weeks before this exam) shows how fresh the news can be. It asked about the RBI's August 2026 GDP revision to 6.7%, PM Surya Sarovar Yojana (Cabinet approval 31 Jul 2026), Sarnath as the 45th World Heritage Site (25 Jul 2026), the 72nd National Film Awards (announced 18 Jul 2026), the Navratna given in June 2026 and the windfall tax. So news up to about 3-4 weeks before the exam is fair game. For 4 Oct, all of August and early to mid September 2026 counts.\n- About a quarter of SBI PO Mains 2026 was static banking asked through a current hook: RTGS UTR is 22 characters, NPA after 90 days, CD minimum 7 days, LCR comes from Basel III, SLR is on NDTL, SDF was introduced in 2022, Integrated Ombudsman 2021, Imperial Bank became SBI in 1955, IIB is in Hyderabad. Expect roughly 10-12 of these in the IBPS paper.\n- Facts asked in more than one 2026 paper:\n  - PRAVAAH portal (IBPS PO 2025 and RBI Grade B 2026)\n  - RBI Integrated Ombudsman Scheme (SBI CBO and SBI PO 2026)\n  - LRS limit of USD 2.5 lakh (IBPS PO 2025 and SBI CBO)\n  - NPA 90-day rule (SBI CBO and SBI PO)\n  - RTGS (RBI Grade B and SBI PO)\n  - e-rupee/CBDC (IBPS PO 2025, RBI Grade B, SBI PO)\n  - UPI types, languages and countries (RBI Grade B, SBI CBO, SBI PO)\n  - PMKVY launch year 2015 (RRB PO Dec 2025 and SBI PO Sep 2026)\n  - Best Feature Film at the National Film Awards (RBI Assistant: 71st; SBI PO: 72nd)\n  - World Bank headquarters, GEP report and India's Executive Director (RBI Assistant and SBI PO)\n  - PFRDA's role and its Pension Sahayak AI platform (RBI Assistant, RBI Grade B, SBI PO)\n  - 16th Finance Commission chairman (SEBI Grade A and RBI Grade B)\n  - OPEC/OPEC+ membership (RBI Grade B and LIC HFL)\n  - India's trade pacts with Oman and the UK (RBI Grade B, LIC HFL, SBI CBO)\n  - Nepal's leadership (RBI Assistant and LIC HFL)\n  - Important days (RRB PO, LIC HFL, SBI PO).\n- \"Who heads X\" questions recur in every paper. So far they have asked about LIC's MD & CEO, the MNRE minister, the SEBI chair, NSE's MD, the CCI chair, the Rural Development minister and India's Executive Director at the World Bank.\n- Scheme questions ask for an acronym letter (\"V\" in BHAVYA, \"U\" in PM-JUGA, \"L\" in PLI), the launch year, the ministry or the outlay. They rarely ask about long descriptions.\n- Geopolitics is asked through a static hook. Examples: the 2026 Hormuz and oil crisis became \"which strait connects the Persian Gulf and the Gulf of Oman\" plus windfall tax, and BRICS became \"first summit host\" or \"17th summit host\".\n- The RBI's next MPC meeting is 5-7 Oct 2026, after the exam, so the August 2026 policy numbers are the latest that can be tested.\n- News from mid-August to late September 2026 has not yet been used by any exam, and IBPS usually draws 70-80% of its current-affairs questions from the last 3 months. For 4 Oct, that means the UPI MDR/charges rules, BRICS Summit 2026 in New Delhi, the national statistics releases (Q1 GDP, CPI), the August MPC, LIC's approval to buy up to 9.99% of ICICI Bank, the HDFC Bank CEO exit, the EPFO wage ceiling and the Asian Games (ongoing).\n- Sports and awards take about 3-5 questions: the 2026 World Cups, CWG 2026 and 2030, Asian Games 2026, the National Film Awards. Static GK stays small (national parks, Ramsar sites, UNESCO sites, headquarters, important days) and is usually tied to a 2026 event.",
+   "questionTypes": [
+    {
+     "type": "Static banking concept tied to a news hook (a number, limit, year or ratio)",
+     "example": "SBI PO Mains 12 Sep 2026: 'How many characters in an RTGS UTR number?' (22); 'Minimum maturity of a Certificate of Deposit?' (7 days); 'LCR was introduced under which Basel norms?' (Basel III); 'NPA classification threshold?' (90 days)",
+     "share": "10-13 of 50 (about 25% of the SBI PO 2026 paper)"
+    },
+    {
+     "type": "RBI circular, direction or portal: who operates it, the limit, or which statement is correct",
+     "example": "IBPS PO Mains 12 Oct 2025: 'PRAVAAH portal is operated by?' (RBI); 'LRS limit per FY?' (USD 2,50,000); 'Which is NOT one of the 7 sutras of RBI's FREE-AI framework?'; 'e-Rupee wallet minimum balance?' (none); counterfeit-note handling circular. SBI PO 2026: 'RBI Integrated Ombudsman Scheme launched in?' (2021)",
+     "share": "6-9 of 50 (explicitly in the 2026 IBPS syllabus)"
+    },
+    {
+     "type": "Current head of an institution or ministry",
+     "example": "SBI PO Mains 2026: 'MD & CEO of LIC?' (R. Doraiswamy); 'Union Minister for New & Renewable Energy?' (Pralhad Joshi); 'India's Executive Director at the World Bank?' (Neelkanth Mishra). RBI Grade B 2026: 'Chairman of 16th Finance Commission?'. RBI Assistant 2026: 'Current SEBI Chairperson?', 'MD & CEO of NSE?'",
+     "share": "4-6 of 50"
+    },
+    {
+     "type": "Scheme facts: acronym letter, launch year, ministry, outlay, implementing agency",
+     "example": "SBI PO Mains 2026: 'In BHAVYA, what does V stand for?' (Vikas); 'PMKVY launched in?' (2015, also asked in IBPS RRB PO Mains Dec 2025); 'Floating-solar scheme?' (PM Surya Sarovar Yojana). IBPS PO 2025: 'PM SVANidhi outlay & deadline?' (Rs 7,332 cr, 31 Mar 2030)",
+     "share": "5-7 of 50"
+    },
+    {
+     "type": "Which bank, regulator or fintech launched or partnered on X",
+     "example": "SBI PO Mains 2026: 'BHASHINI signed an MoU with which bank?' (PNB); 'Which PSB signed an M&A MoU with Japan's Mizuho?' (Bank of Baroda); 'slice SFB AI phygital branch in which state?' (Assam); 'PFRDA's AI grievance platform?' (Pension Sahayak). RBI Grade B 2026: 'Credit line on UPI for SHGs, provider?' (Bank of Baroda, Mar 2026)",
+     "share": "4-6 of 50"
+    },
+    {
+     "type": "Digital payments numbers and features (UPI, BHIM, AePS, CBDC, UPI Circle)",
+     "example": "SBI PO Mains 2026: 'BHIM UPI supports how many languages?' (20); 'UPI operational in how many countries?' (11, as reported); 'Which bank was NOT in the initial e-Rupee-R pilot?'. IBPS PO 2025: 'AePS is operated by?' (NPCI). SBI CBO Mar 2026: 'UPI Circle maximum monthly limit?'. RBI Grade B 2026: 'Types of UPI', 'IMPS regulator'",
+     "share": "4-6 of 50"
+    },
+    {
+     "type": "Economy data and policy numbers (MPC, GDP, ratings, budget)",
+     "example": "SBI PO Mains 2026: 'Why did RBI raise the FY27 GDP projection to 6.7%?' (Aug 2026 MPC). IBPS PO 2025: 'S&P upgraded India to?' (BBB). RBI Assistant 2026: 'India's rank by nominal GDP?'. SBI CBO 2026: 'Repo rate as of exam date?'",
+     "share": "3-5 of 50"
+    },
+    {
+     "type": "Report or index: who publishes it and who tops it",
+     "example": "SBI PO Mains 2026: 'Global Economic Prospects is published by?' (World Bank); 'Top country in UN SDG Index?' (Finland). IBPS PO 2025: 'Growing Retail Digital Payments note released by?' (IMF); Swachh Vayu Survekshan top city",
+     "share": "2-4 of 50"
+    },
+    {
+     "type": "International affairs with a static or geography hook",
+     "example": "SBI PO Mains 2026: 'Strait connecting the Persian Gulf and the Gulf of Oman?' (Hormuz); '17th BRICS Summit host?' (Brazil); 'BIMCO HQ?' (Denmark). IBPS PO 2025: 'EAEU members', 'Zapad exercise is between?' (Russia-Belarus). RBI Grade B 2026: India-Oman CEPA, Chabahar, non-OPEC members",
+     "share": "4-6 of 50"
+    },
+    {
+     "type": "Sports, awards, heritage and important days",
+     "example": "SBI PO Mains 2026: '2030 Commonwealth Games host?' (Ahmedabad); '72nd National Film Awards Best Feature Film?' (Article 370); 'India's 45th UNESCO site?' (Sarnath); 'Human Rights Day?' (10 Dec). SBI CBO 2026: 'T20 World Cup Player of the Tournament?'",
+     "share": "3-5 of 50"
+    },
+    {
+     "type": "Statement-based, 'which is NOT correct' or match-the-following (the usual IBPS Mains format)",
+     "example": "IBPS PO Mains 2025: Padma Awards true/false statements; 'Identify the incorrectly paired AI tool' (Gemini, ChatGPT, NPCI PAI, Siri, SEBI SEVA). RBI Grade B 2026: 'Match SIDBI and PFRDA with their functions'. SBI PO 2026: situation-based statement on the effect of falling NPAs",
+     "share": "5-8 of 50 (as a format, overlapping the topics above)"
+    }
+   ],
+   "hotThemes": [
+    "ASKED IN 2+ EXAMS - RBI Integrated Ombudsman: the original scheme is from 2021 ('One Nation One Ombudsman'). The new Reserve Bank - Integrated Ombudsman Scheme (RB-IOS) 2026 replaced it with effect from 1 July 2026. It covers banks, eligible NBFCs, non-bank PPI issuers and credit information companies. The Ombudsman can award up to Rs 30 lakh for consequential loss plus Rs 3 lakh for harassment, and there is no limit on the disputed amount (asked in SBI CBO Mar 2026 and SBI PO Sep 2026).",
+    "ASKED IN 2+ EXAMS - PRAVAAH is the RBI's portal for regulatory applications (IBPS PO Mains Oct 2025 and RBI Grade B Jun 2026). Other RBI initiatives: Utkarsh 2029 strategy (Apr 2026: 6 pillars, 49 deliverables) and Mission SAKSHAM (Sahkari Bank Kshamta Nirman), capacity-building for urban co-operative banks for about 1.4 lakh participants, launched by Governor Sanjay Malhotra in Apr 2026. Both were asked in RBI Grade B 2026.",
+    "ASKED IN 2+ EXAMS - Payment-system numbers: RTGS UTR is 22 characters and RTGS minimum is Rs 2 lakh; the LRS limit is USD 2,50,000 per financial year (IBPS PO 2025, SBI CBO 2026); NPA after 90 days overdue; CD minimum maturity is 7 days; SDF was introduced in 2022 and is overnight; LCR comes from Basel III; SLR is on NDTL.",
+    "ASKED IN 2+ EXAMS - e-rupee/CBDC (IBPS PO 2025: no minimum balance in the wallet; RBI Grade B 2026; SBI PO 2026: banks in the pilot). Also: Bank of Baroda became the first bank to offer a UPI-linked overdraft credit line (Rs 5,000) for women SHG members under PMJDY, in Mar 2026.",
+    "FRESH, NOT YET TESTED - UPI charges: a 0.4% MDR on certain merchant payments above Rs 2,000 from 15 Oct 2026, capped at Rs 300. P2P transfers, payments up to Rs 2,000 and small merchants stay free. NPCI notified it on 15 Sep 2026 after a Finance Ministry gazette notification on 14 Sep. The UPI Charges Bill 2026 passed the Lok Sabha on 7 Aug 2026.",
+    "FRESH - UPI news for Aug-Sep 2026: a record 24.51 billion transactions in Aug 2026; UPI completed 10 years (Aug 2026); UPI went live in Uzbekistan through UZQR (1 Sep 2026); tap-to-pay and a unified transaction view were added (Sep 2026). SBI PO also asked how many languages BHIM supports (20, as reported) and how many countries UPI works in (11, as reported).",
+    "RBI MPC August 2026 (3-5 Aug) is the latest policy before the exam, because the next MPC meets 5-7 Oct. Repo 5.25% (4th consecutive hold, unanimous), SDF 5.00%, MSF and Bank Rate 5.50%, neutral stance. FY27 GDP projection raised from 6.6% to 6.7%; FY27 CPI projection 5.0% (was 5.1%). Polymer banknotes planned from the next financial year. Draft framework to resume licensing of urban co-operative banks. SBI PO already asked why GDP was raised to 6.7%.",
+    "Economy data: Q1 FY27 (Apr-Jun 2026) GDP grew 7.8% (released 31 Aug 2026; Q4 FY26 was 8.6%, nominal growth 10.3%, GVA 8.2%). CPI now uses base year 2024 from the Jan 2026 release (was 2012). CPI inflation for Aug 2026 was 4.82% (food 5.95%).",
+    "Union Budget 2026-27 (1 Feb 2026, Nirmala Sitharaman's 9th in a row): fiscal deficit 4.3% of GDP (FY26 revised estimate 4.4%), capex Rs 12.2 lakh crore, Semiconductor Mission 2.0 Rs 40,000 crore, Biopharma SHAKTI Rs 10,000 crore. The Income-tax Act 2025 took effect on 1 Apr 2026: Form 16 becomes Form 130 and Form 26AS becomes Form 168 (RBI Grade B asked about the Form 16 replacement).",
+    "ASKED IN 2+ EXAMS - 16th Finance Commission (chairman Arvind Panagariya), asked in SEBI Grade A Jan 2026 and RBI Grade B Jun 2026. The report was tabled on 1 Feb 2026 and covers 2026-27 to 2030-31. States' share of central taxes stays at 41%. A new criterion, 'contribution to national GDP' (10% weight), replaces 'tax and fiscal effort'. Grants total Rs 9.47 lakh crore.",
+    "New schemes asked within weeks of approval. PM Surya Sarovar Yojana: approved 31 Jul 2026, Rs 5,070 crore, 5,000 MW of floating solar with battery storage, implemented by SECI (asked in SBI PO). BHAVYA (Bharat Audyogik Vikas Yojana): Rs 33,660 crore for 100 plug-and-play industrial parks from FY27 to FY32; Cabinet approval 18 Mar 2026, portal launched by Piyush Goyal on 8 Jun 2026 (SBI PO asked what the 'V' stands for).",
+    "Other Cabinet approvals, Jul-Aug 2026: PM-KISAN extended for 2026-27 to 2030-31 with Rs 3.15 lakh crore (31 Jul 2026, Rs 6,000 a year in 3 instalments); revamped Khelo India Rs 36,441 crore (2026-31); mobile phone manufacturing scheme about Rs 62,500 crore (Jul 2026); GOBARdhan compressed biogas scheme Rs 23,731 crore. Cabinet also raised the EPFO wage ceiling from Rs 15,000 to Rs 25,000 (16 Sep 2026).",
+    "ASKED IN 2+ EXAMS - Heads of institutions: LIC MD & CEO R. Doraiswamy (SBI PO). World Bank Executive Director for India, Bangladesh, Bhutan and Sri Lanka: Neelkanth Mishra (approved Jun 2026). World Bank Group Chief Economist: Michael Kremer (Sep 2026). RBI Governor Sanjay Malhotra. RBI Deputy Governors: Swaminathan J (extended 2 years from 26 Jun 2026), Poonam Gupta (monetary policy), S.C. Murmu, and Rohit Jain (replaced T. Rabi Sankar). IRDAI chair Ajay Seth.",
+    "FRESH bank and NBFC news, Aug-Sep 2026: the RBI allowed LIC to buy up to 9.99% of ICICI Bank (7 Sep). HDFC Bank MD & CEO Sashidhar Jagdishan retires on 26 Oct 2026 and declined a third term. The RBI's upper-layer NBFC list grew to 17, adding REC, PFC, IRFC and HUDCO. The Bankers' Books Evidence Act 2026 takes effect on 1 Oct 2026. S. Somanath was appointed to the RBI Central Board (Aug 2026). Banking coverage reached 99.92% of inhabited villages.",
+    "July 2026 regulatory items: the RBI recognised Sahamati as the self-regulatory organisation (SRO) for account aggregators (SBI PO asked about AA functions). The FCNR(B) interest cap on 3-5 year deposits was lifted temporarily until 30 Sep 2026. NSE launched Electronic Gold Receipts. The RBI issued unified governance directions for commercial, small finance, local area and payments banks (Jul 2026) and Basel III market-risk capital directions (22 Sep 2026).",
+    "BRICS, very likely: the 18th BRICS Summit was held in New Delhi on 12-13 Sep 2026 at Bharat Mandapam. Theme: 'Building for Resilience, Innovation, Cooperation and Sustainability'. It is India's 4th chairship (after 2012, 2016, 2021). SBI PO asked who hosted the first summit (Russia, 2009) and the 17th (Brazil, Rio 2025).",
+    "2026 energy crisis (asked twice in SBI PO): the US-Israel-Iran conflict shut the Strait of Hormuz (between the Persian Gulf and the Gulf of Oman) and crude rose above $126. India then revised windfall taxes on exports of petrol, diesel and aviation fuel. Related: OPEC/OPEC+ membership was asked in RBI Grade B and LIC HFL.",
+    "Trade pacts (asked in RBI Grade B, LIC HFL and SBI CBO). India-Oman CEPA: signed 18 Dec 2025. India-UK CETA: in force from 15 Jul 2026. India-EU FTA: negotiations concluded 27 Jan 2026, entry into force expected in 2027. India-New Zealand FTA: announced 22 Dec 2025.",
+    "Census 2027: the house-listing phase runs 1 Apr - 30 Sep 2026 and population enumeration is in Feb 2027. It is India's first digital census, with a 15-day self-enumeration option. The mascots are Pragati and Vikas (LIC HFL asked the name of the female mascot).",
+    "ASKED IN 2+ EXAMS - 72nd National Film Awards (announced 18 Jul 2026, presented 22 Sep 2026 at Kevadia): Best Feature Film 'Article 370', Best Popular Film 'Kalki 2898 AD', Best Actor shared by Mammootty and Kartik Aaryan, Best Actress Yami Gautam, Dadasaheb Phalke Award to Anant Nag. RBI Assistant asked the 71st Best Feature Film and SBI PO asked the 72nd.",
+    "UNESCO: Sarnath (Uttar Pradesh), including Dhamek Stupa and Chaukhandi Stupa, became India's 45th World Heritage Site on 25 Jul 2026 at the 48th session in Busan. India now ranks 6th in the world by number of sites. SBI PO asked both the site and where Dhamek Stupa is. Other static items asked: Kuno for the cheetah project, Sundarbans as the largest Ramsar site.",
+    "Sports 2026. Men's T20 World Cup: India beat New Zealand by 96 runs in Ahmedabad on 8 Mar 2026, India's 3rd title and the first win by a host. Women's T20 World Cup: Australia beat England by 7 wickets at Lord's. FIFA World Cup 2026: Spain beat Argentina in extra time; Golden Ball Rodri, Golden Boot Mbappé. CWG 2026 Glasgow: India 4th with 39 medals (13 gold, 17 silver, 9 bronze), 7 golds in boxing. CWG 2030 host: Ahmedabad (asked). Asian Games 2026 in Aichi-Nagoya run 19 Sep - 4 Oct (flag-bearers Manu Bhaker and Pawan Sehrawat); the tally changes daily, so prepare the venue and flag-bearers only."
+   ],
+   "sources": [
+    "https://www.affairstap.com/2026/09/attempt-test-on-ga-questions-asked-in.html",
+    "https://affairscloud.com/ga-questions-asked-in-sbi-po-mains-exam-2026-september-12/",
+    "https://www.bankersadda.com/ga-questions-asked-in-sbi-po-mains-exam-2026/",
+    "https://www.adda247.com/exams/bank/ga-questions-asked-in-sbi-po-mains-exam-2026/",
+    "https://www.practicemock.com/blog/sbi-po-mains-gk-questions/",
+    "https://www.bankersadda.com/general-awareness-questions-asked-in-rbi-grade-b-phase-i-exam-2026/",
+    "https://edutap.in/news/rbi-grade-b-phase-1-2026-exam-complete-ga-analysis/",
+    "https://www.bankersadda.com/ga-questions-asked-in-rbi-assistant-mains-exam-2026/",
+    "https://www.bankersadda.com/ga-questions-asked-in-sbi-cbo-exam-2026/",
+    "https://www.bankersadda.com/ga-questions-asked-in-lic-hfl-junior-assistant-exam-2026/",
+    "https://www.bankersadda.com/ga-questions-asked-in-sebi-grade-a-exam-2026/",
+    "https://affairscloud.com/ga-questions-asked-in-ibps-po-mains-exam-2025-october-12/",
+    "https://www.smartkeeda.com/blog/ga-questions-asked-in-ibps-po-mains-exam-12-october-2025",
+    "https://guidely.in/blog/ga-questions-asked-in-ibps-rrb-po",
+    "https://www.oliveboard.in/blog/ga-questions-asked-in-ibps-clerk-mains-exam-2025/",
+    "https://www.outlookmoney.com/banking/rbi-mpc-august-2026-meeting-live-updates-governor-sanjay-malhotra-speech-repo-rate-inflation-gdp-news",
+    "https://www.forbesindia.com/article/news/rbi-mpc-live-updates-august-2026-repo-rate-sanjay-malhotra-policy-announcement-liveblog/2996705/1",
+    "https://currentaffairs.adda247.com/banking-current-affairs/",
+    "https://www.bankingfinance.in/rbi-news-for-july-2026.html",
+    "https://www.scconline.com/blog/post/2026/09/19/upi-mdr-rules-explained-upi-remains-free-for-users-merchant-payments-above-rs-2000/",
+    "https://vinodkothari.com/2026/01/rbi-integrated-ombudsman-scheme-2026-key-changes/",
+    "https://www.business-standard.com/amp/markets/capital-market-news/india-s-gdp-expands-7-8-in-q1fy27-nominal-growth-tops-10-126083101003_1.html",
+    "https://www.indexbox.io/blog/indias-retail-inflation-eases-to-482-in-august-2026/",
+    "https://www.multibagg.ai/market-pulse/articles/union-budget-2026-highlights-capex-cml3k9hvq008bqm0jjncbhbtv",
+    "https://prsindia.org/policy/report-summaries/report-of-the-16th-finance-commission-for-2026-31",
+    "https://www.pmindia.gov.in/en/news_updates/cabinet-approves-pradhan-mantri-surya-sarovar-yojana-pm-ssy-for-development-of-floating-solar-photovoltaic-projects-with-energy-storage-systems-with-a-total-outlay-of-rs-5070-crore/",
+    "https://www.manoramayearbook.in/current-affairs/india/2026/06/09/what-is-bhavya-scheme.html",
+    "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2292437&reg=48&lang=1",
+    "https://www.business-standard.com/india-news/brics-summit-2026-india-chairship-new-delhi-global-south-priorities-themes-126090901024_1.html",
+    "https://www.investindia.gov.in/blogs/indias-fta-guide-cepa-tepa-ceta-eu-deals-explained",
+    "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2248021&reg=3&lang=1",
+    "https://www.unesco.org/en/articles/ancient-buddhist-site-sarnath-inscribed-unesco-world-heritage-list",
+    "https://en.wikipedia.org/wiki/72nd_National_Film_Awards",
+    "https://www.espn.com/commonwealth-games/story/_/id/49509606/india-commonwealth-games-2026-live-updates-scores-news-results-commentary-schedule-timings-august-02-sunday-cwg-glasgow",
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/rodri-earns-adidas-golden-ball",
+    "https://en.wikipedia.org/wiki/2026_Men's_T20_World_Cup_final",
+    "https://www.icc-cricket.com/tournaments/womens-t20-worldcup-2026/news/england-australia-final-womens-t20-world-cup-2026",
+    "https://www.olympics.com/en/news/asian-games-2026-medal-tally-india-winners-table-list",
+    "https://newsonair.gov.in/acc-clears-neelkanth-mishras-appointment-as-executive-director-world-bank/",
+    "https://www.indiainfoline.com/news/companies/lic-appoints-r-doraiswamy-as-new-md-ceo",
+    "https://rbi.org.in/Content/deputygovernors.html",
+    "https://www.business-standard.com/finance/news/rbi-governor-launches-mission-saksham-for-urban-co-operative-banks-126042801303_1.html",
+    "https://currentaffairs.adda247.com/what-is-rbis-utkarsh-2029-key-highlights-of-new-financial-strategy-explained/",
+    "https://www.businessworld.in/article/bob-introduces-rs-5-000-upi-linked-overdraft-for-shg-members-598513",
+    "https://upstox.com/news/personal-finance/tax/form-16-becomes-form-130-for-salaried-employees-key-faqs-all-you-need-to-know/article-191108/",
+    "https://www.business-standard.com/amp/economy/news/govt-cuts-windfall-tax-on-diesel-raises-duty-on-petrol-exports-from-july-126063001378_1.html",
+    "https://www.iasgyan.in/daily-current-affairs/windfall-tax-reinstated-indias-strategy-amidst-the-2026-global-energy-crisis",
+    "https://www.thehawk.in/news/economy-and-business/hdfc-bank-ceo-sashidhar-jagdishan-to-retire-on-oct-26-declines-reappointment",
+    "https://www.oliveboard.in/ibps-po-exam-pattern/"
+   ]
+  },
+  {
+   "key": "predictions",
+   "summary": "- Every coaching site checked (Adda247/Bankersadda, Oliveboard, Guidely, PracticeMock, Mahendras, AffairsCloud) says the same thing: roughly half of the GA section is banking and financial awareness, not general news. Guidely estimates 12-15 questions from RBI policy and rates, bank licences, mergers, NBFC rules, sector data and IBC.\n- The window matters most. The last 3 months (Jul-Sep 2026) are called the highest-yield period (about 70-80% of current-affairs questions). Coaching sites tell candidates to revise the last 6-8 months. In IBPS PO Mains 2025 (12 Oct 2025), 29 of the 35 GA questions were current affairs from the previous ~5 months (PracticeMock).\n- The closest guide is SBI PO Mains held on 12 Sep 2026, 3 weeks before this exam (AffairsCloud, 53 memory-based questions). About 40% were static banking facts: UTR has 22 characters, SLR is kept daily on NDTL, CD minimum maturity is 7 days, SDF is overnight, LCR comes from Basel III, 3 free ATM transactions a month in metros, SBI was founded in 1955. The rest were very recent: LIC CEO R. Doraiswamy, EbixCash as the first non-bank AD Category-II, BoB-Mizuho and PNB-BHASHINI MoUs, UPI live in 11 countries, BHIM in 20 languages, PM Surya Sarovar Yojana, CPCL as the 28th Navratna, and Neelkanth Mishra as World Bank ED.\n- IBPS PO Mains 2025 relied heavily on RBI's own portals, frameworks and limits: PRAVAAH, the LRS limit of USD 2.5 lakh, SGB issuer, which banks cannot issue KCC (payments banks), AePS run by NPCI, the FREE-AI sutras, DICGC coverage, e-RUPI minimum balance of zero, and the incentive for exchanging soiled notes. It also asked scheme outlays and deadlines (PM SVANidhi ₹7,332 cr to 31 Mar 2030), international groups (EAEU members, Zapad exercise hosts) and rating actions (S&P upgrade of India to BBB).\n- RBI circulars are now named in the 2026 syllabus, so regulatory frameworks from Jan-Sep 2026 are high priority. Examples: RB-IOS 2026, the digital fraud compensation framework, the NBFC Upper Layer list, UCB licensing, gold-loan LTV limits, the risk-based DICGC premium, and Basel III market risk directions.\n- There were 3 MPC meetings in FY27 before the exam: April (60th), June (61st) and August 3-5 (62nd). All held the repo rate at 5.25%. The next meeting is 5-7 Oct 2026, after the 4 Oct exam, so August is the latest policy and its projections are likely to be asked.\n- Numbers-based questions are common: UPI monthly volume, GDP and CPI prints, FSR GNPA, RBI surplus transfer, EPFO wage ceiling, Budget fiscal deficit and capex.\n- Appointments and name changes are asked, especially RBI Deputy Governors and Executive Directors, bank MD/CEOs and LIC leadership.\n- Some themes appear in many independent sources (Adda banking page, BankExamsToday, gkbooks, bankingfinance.in, AffairsCloud): the August MPC, RB-IOS 2026, digital fraud compensation, LIC's 9.99% approvals, the UPI MDR above ₹2,000, the Bankers' Books Evidence Act 2026, the EPFO ceiling, NBFC-UL 17, polymer notes, the South Indian Bank CEO, and new RBI EDs.\n- Caveats: reports on India's Global Innovation Index 2026 rank disagree (39th is claimed, but the source and the direction of change are unclear), so it is left out. PracticeMock's page gives 25 minutes and +2/-0.5 marking for the 2026 GA section, which conflicts with other sources. There is no official PSB merger as of Sep 2026 (PIB fact-checked a fake \"9 PSBs into 3\" claim).",
+   "questionTypes": [
+    {
+     "type": "Current RBI policy rate or projection (repo/SDF/MSF, GDP or CPI forecast from the latest MPC)",
+     "example": "SBI PO Mains 12 Sep 2026: 'Standing Deposit Facility duration' (Overnight); 'GDP forecast increase reason' (expected domestic economic activity)",
+     "share": "2-4 of 50"
+    },
+    {
+     "type": "Static banking terms and limits (UTR length, SLR basis, CD maturity, ATM free transactions, LCR origin)",
+     "example": "SBI PO Mains 2026: UTR in RTGS = 22 characters; CD minimum maturity = 7 days; SLR maintained daily; LCR introduced under Basel III; 3 free ATM transactions/month in metros",
+     "share": "6-9 of 50"
+    },
+    {
+     "type": "Which RBI portal, framework or scheme does X / which organisation launched portal X",
+     "example": "IBPS PO Mains 12 Oct 2025: 'Which organisation launched the PRAVAAH portal?' (RBI); FREE-AI framework sutras; Guarantee & Co-acceptance guidelines",
+     "share": "4-6 of 50"
+    },
+    {
+     "type": "RBI limits and eligibility (LRS limit, who can issue KCC, DICGC coverage, e-RUPI balance)",
+     "example": "IBPS PO Mains 2025: LRS limit = USD 2,50,000 per FY; KCC cannot be issued by Payments Banks; e-RUPI minimum balance = zero",
+     "share": "3-5 of 50"
+    },
+    {
+     "type": "Which bank/entity got licence, approval or first status",
+     "example": "SBI PO Mains 2026: first non-bank AD Category-II licence = EbixCash World Money; bank with Slice SFB AI branch = Assam",
+     "share": "2-4 of 50"
+    },
+    {
+     "type": "Bank MoU / partnership (which bank tied up with whom)",
+     "example": "SBI PO Mains 2026: PSB with Mizuho Bank MoU = Bank of Baroda; bank with BHASHINI MoU = Punjab National Bank",
+     "share": "2-3 of 50"
+    },
+    {
+     "type": "Appointments (MD/CEO, RBI DG/ED, international organisation heads)",
+     "example": "SBI PO Mains 2026: LIC MD & CEO = R. Doraiswamy; India's World Bank ED = Neelkanth Mishra; IBPS PO 2025: C.P. Radhakrishnan's previous post = Governor of Maharashtra",
+     "share": "3-5 of 50"
+    },
+    {
+     "type": "Government scheme: purpose, outlay or deadline",
+     "example": "IBPS PO Mains 2025: PM SVANidhi outlay Rs 7,332 crore till 31 March 2030; SBI PO 2026: floating solar scheme = PM Surya Sarovar Yojana",
+     "share": "4-6 of 50"
+    },
+    {
+     "type": "Digital payments facts (UPI countries, BHIM languages, AePS/NPCI, CBDC)",
+     "example": "SBI PO Mains 2026: UPI operating countries = 11; BHIM UPI languages = 20; CBDC participant = SBI; IBPS PO 2025: AePS operated by NPCI",
+     "share": "3-5 of 50"
+    },
+    {
+     "type": "Reports, indices and ratings (publisher and India's rank or rating)",
+     "example": "SBI PO Mains 2026: Global Economic Prospects publisher = World Bank; India's rank as seafarer supplier = 2nd; IBPS PO 2025: S&P upgrade of India to BBB",
+     "share": "3-5 of 50"
+    },
+    {
+     "type": "International organisations, summits and defence exercises",
+     "example": "IBPS PO Mains 2025: EAEU members; Zapad 2025 hosts = Russia & Belarus; SBI PO 2026: 17th BRICS Summit = Rio de Janeiro",
+     "share": "3-4 of 50"
+    },
+    {
+     "type": "Economy data and fiscal numbers (GDP, CPI, Budget, Navratna/CPSE status)",
+     "example": "SBI PO Mains 2026: 28th Navratna CPSE = CPCL; windfall tax sector = petroleum/crude",
+     "share": "2-4 of 50"
+    },
+    {
+     "type": "Static GK mixed in (Ramsar sites, UNESCO sites, headquarters, days, constitution schedules)",
+     "example": "SBI PO Mains 2026: largest Ramsar site = Sundarbans; Rajya Sabha seat allocation = Fourth Schedule; IIB HQ = Hyderabad",
+     "share": "4-7 of 50"
+    }
+   ],
+   "hotThemes": [
+    "RBI MPC Aug 3-5, 2026 (62nd meeting, latest before the exam): repo held at 5.25% for the 4th straight review, neutral stance, unanimous 6-0; SDF 5.00%, MSF and Bank Rate 5.50%; Governor Sanjay Malhotra. The next MPC is Oct 5-7, 2026, after the exam.",
+    "August 2026 MPC projections: FY27 GDP raised to 6.7% (June said 6.6%, April 6.9%); FY27 CPI cut to 5.0% (June 5.1%, April 4.6%). Quarterly GDP: Q1 7.0, Q2 6.4, Q3 6.5, Q4 6.8.",
+    "Easing cycle background: repo cut 100 bps in FY26 (Apr, Jun, Dec 2025) to 5.25%, which is 125 bps across calendar 2025. CRR cut 100 bps to 3.0%. April 2026 = 60th MPC, June 2026 = 61st MPC (both holds).",
+    "Reserve Bank-Integrated Ombudsman Scheme 2026: in force 1 July 2026, replaces RB-IOS 2021. Compensation up to Rs 30 lakh for consequential loss plus Rs 3 lakh for time, expenses and harassment. Covers NBFCs with assets of Rs 100 crore and above. No cap on the dispute amount. Complain if the bank does not reply within 30 days.",
+    "Digital fraud compensation framework (final, 24 June 2026): 85% of net loss or Rs 25,000, whichever is lower, once in a lifetime. Report within 5 days to the bank and to 1930/NCRP. RBI pays 65%, remitter and beneficiary banks 10% each. Start deferred from 1 July 2026 to 1 Jan 2027.",
+    "RBI FSR June 2026 (released 18 July 2026): GNPA 1.8% in March 2026, a multi-decade low. Baseline stress test: 1.9% by March 2028; adverse: 3.8-4.1%. LCR 124.2%, NSFR 122.1%, SCB credit growth 14.5%.",
+    "RBI surplus transfer for FY26: record Rs 2.87 lakh crore (about 7% more than Rs 2.69 lakh crore for FY25). RBI balance sheet up 20.6% to Rs 91.97 lakh crore (26.4% of GDP). Bank frauds Rs 48,021 crore in FY26 vs Rs 32,803 crore in FY25.",
+    "RBI personnel: Rohit Jain became Deputy Governor for 3 years from 3 May 2026 (succeeding T. Rabi Sankar). Swaminathan J reappointed DG (June 2026). New EDs: Ravi Shankar (1 July 2026), Monisha Chakraborty (3 Aug 2026; Foreign Exchange Dept and FMRD), Suman Ray (1 Sep 2026; DICGC dept and Premises). Anand Mahindra and S. Somanath joined the RBI Central Board (from 20 Aug 2026, 4 years).",
+    "NBFC Upper Layer 2026-27 (announced 6 Aug 2026): 17 NBFCs, up from 15. New entrants are REC, PFC, IRFC and HUDCO. Tata Sons stays on the list. Threshold is AUM of Rs 1 lakh crore or more.",
+    "LIC stake approvals: RBI allowed LIC up to 9.99% in HDFC Bank (Aug 2026; LIC held 4.11%) and up to 9.99% in ICICI Bank (RBI letter dated 4 Sep 2026; LIC held about 4.35%). Each approval is valid for 1 year.",
+    "Paytm Payments Bank: licence cancelled 24 April 2026. Delhi HC ordered winding up (8 and 22 July 2026). Official Liquidator is Girikumar Nair, ex-SBI CGM.",
+    "UPI MDR (NPCI, 15 Sep 2026): 0.4% MDR on specified P2M UPI payments above Rs 2,000 from 15 Oct 2026, capped at Rs 300 (reached at Rs 75,000). Flat Rs 5 for railways, telecom and agri inputs. Small merchants with under Rs 1 lakh monthly QR receipts are exempt. P2P and payments up to Rs 2,000 stay free.",
+    "UPI data and features: record 24.51 billion transactions worth Rs 29.82 lakh crore in Aug 2026 (791 million a day, 752 live banks). UPI launched in Uzbekistan via UZQR (1 Sep 2026). UPI live in 11 countries (asked in SBI PO 2026). Tap-to-pay and unified transaction view added (Sep 2026). NPCI tied up with HSBC India and J.P. Morgan for real-time FX settlement of international UPI (July 2026).",
+    "Bankers' Books Evidence Act, 2026: Presidential assent 13 Aug 2026, in force 1 Oct 2026, replaces the 1891 Act. It is technology-neutral (electronic and cloud records), allows digital certification, and defines 'special cause' before a court can summon bank officials.",
+    "Polymer notes: Government approved RBI field trial of Rs 10 and Rs 20 polymer notes, 1 billion of each (Lok Sabha reply, 27 July 2026). Paper notes continue.",
+    "RBI Financial Inclusion Index: 70 in March 2026, up from 67 in March 2025 (released July 2026). Near-universal banking coverage reported: 99.92% of inhabited villages.",
+    "AD Category-II: EbixCash World Money became the first non-bank AD Category-II for remittances (July 2026; asked in SBI PO Mains 2026). Niyo Forex received a perpetual AD-II licence (Aug 2026). Sahamati Foundation recognised as the SRO for Account Aggregators (June 2026).",
+    "UCB licensing resumes after a pause since 2004 (RBI discussion paper). Eligibility: at least 10 years of operation, deposits of Rs 10,000 crore or more, net worth of Rs 300 crore or more, CRAR of at least 12%, net NPA below 3%.",
+    "Bank leadership: South Indian Bank MD & CEO is Mahesh Muralidhar Pai (ex-Canara Bank CGM), 3 years from 1 Oct 2026. HDFC Bank CEO Sashidhar Jagdishan retires 26 Oct 2026; the board sent 2 names to RBI on 12 Sep 2026. Canara Bank MD & CEO is Hardeep Singh Ahluwalia (from 1 Jan 2026). LIC MD & CEO is R. Doraiswamy.",
+    "Insurance: Sabka Bima Sabki Raksha (Amendment of Insurance Laws) Act 2025 (assent 20 Dec 2025) allowed 100% FDI in insurance, effective 5 Feb 2026; LIC's foreign investment cap stays at 20%. IRDAI Chairman is Ajay Seth. ICICI Prudential Life renamed ICICI Life Insurance Ltd (Sep 2026).",
+    "DICGC: risk-based deposit insurance premium from 1 April 2026, with up to 33.33% discount for safer banks (old flat rate was 12 paise per Rs 100). Cover is still Rs 5 lakh per depositor per bank; a Rs 7.5 lakh proposal is pending.",
+    "Gold loans: RBI Lending Against Gold and Silver Collateral Directions, effective 1 April 2026. LTV is 85% up to Rs 2.5 lakh, 80% for Rs 2.5-5 lakh, 75% above Rs 5 lakh.",
+    "RBI in Sep 2026: Basel III Market Risk Capital Directions 2026 (22 Sep), revised REIT/InvIT valuation rules (23 Sep), 5 NBFC CoRs cancelled and 8 surrendered (18 Sep). Penalty on Bank of Baroda of Rs 63.6 lakh (Fair Practices Code and KYC, Aug 2026). FCNR(B) swap window mobilised about $41 bn by 31 July.",
+    "SEBI board meeting, 24 Sep 2026: Portfolio Managers Regulations 2026 (replace 2020 rules; PMS derivatives exposure up to 1.25x client AUM) and Settlement of Administrative and Civil Proceedings Regulations 2026 (replace 2018 rules).",
+    "EPFO: Cabinet raised the mandatory wage ceiling from Rs 15,000 to Rs 25,000 (approved 16 Sep 2026, effective 17 Sep 2026). More than 51 lakh extra workers covered. EPS monthly cap rises from Rs 1,250 to Rs 2,083. EPFO services on WhatsApp.",
+    "GDP Q1 FY27 (Apr-Jun 2026): 7.8% real growth (NSO, 31 Aug 2026), fastest in more than 2 years. Nominal growth 10.3%, GFCF +20.4%, manufacturing 9.2%, services about 10%. Fitch raised FY27 forecast to 6.9% and S&P to 7.0% (Sep 2026).",
+    "New base years (MoSPI 2026): GDP and IIP on 2022-23 (new GDP series 27 Feb 2026), CPI on 2024, WPI on 2022-23. CPI inflation was 4.82% in Aug 2026 (July 4.45%), the highest in the new series; food inflation 5.95%.",
+    "Union Budget 2026-27: fiscal deficit 4.3% of GDP (FY26 revised estimate 4.4%); capex Rs 12.2 lakh crore (from Rs 11.2 lakh crore); debt 55.6% of GDP, aiming for about 50% by March 2031; Semiconductor Mission 2.0 at Rs 40,000 crore; Biopharma SHAKTI at Rs 10,000 crore; railway capex Rs 2.93 lakh crore; 7 high-speed rail corridors.",
+    "Economic Survey 2025-26 (CEA V. Anantha Nageswaran): FY27 GDP 6.8-7.2%, later revised to 7-7.4% under the new GDP series.",
+    "Cabinet schemes, Aug 2026: PM Surya Sarovar Yojana (floating solar; asked in SBI PO 2026); Samudra Manthan offshore exploration (Rs 84,084 crore); PM-KISAN extended to 2030-31 (Rs 3.15 lakh crore); revamped Khelo India (Rs 36,441 crore); GOBARdhan (Rs 23,731 crore). Sep 2026: CGTMSE guarantee cover for TReDS financing of MSMEs.",
+    "Reports and rankings, Sep 2026: M3M Hurun India Rich List 2026 led by Gautam Adani and family (Rs 9.23 lakh crore); India 31st in WEF Travel & Tourism Development Index 2026; FDI inflows US$94.53 bn in FY26; ICS/BIMCO report ranks India 2nd as supplier of seafarers.",
+    "PSB consolidation: no official merger announced as of Sep 2026; PIB fact-checked the viral '9 PSBs into 3' claim as fake. Banks reported as under study: BoI, IOB, Central Bank, BoM, UCO and Punjab & Sind Bank. D-SIBs remain SBI, HDFC Bank and ICICI Bank."
+   ],
+   "sources": [
+    "https://www.practicemock.com/blog/ibps-po-most-probable-ga-questions-2026-get-free-pdf/",
+    "https://www.practicemock.com/blog/ga-questions-asked-ibps-po-exams-previous-years/",
+    "https://guidely.in/blog/ga-for-ibps-po",
+    "https://guidely.in/blog/ga-questions-asked-in-sbi-po-mains",
+    "https://affairscloud.com/ga-questions-asked-in-sbi-po-mains-exam-2026-september-12/",
+    "https://affairscloud.com/ga-questions-asked-in-ibps-po-mains-exam-2025-october-12/",
+    "https://www.smartkeeda.com/blog/ga-questions-asked-in-ibps-po-mains-exam-12-october-2025",
+    "https://www.bankersadda.com/ga-capsule-for-ibps-po-mains-2026/",
+    "https://currentaffairs.adda247.com/banking-current-affairs/",
+    "https://currentaffairs.adda247.com/rbi-financial-stability-report-2026-top-takeaways-you-should-know/",
+    "https://currentaffairs.bankexamstoday.com/2026/09/current-affairs-one-liner-25th.html",
+    "https://currentaffairs.bankexamstoday.com/2026/09/current-affairs-one-liner-23rd.html",
+    "https://currentaffairs.bankexamstoday.com/2026/08/current-affairs-one-liner-20th-august.html",
+    "https://gkbooks.in/reserve-bank-of-india-in-news/",
+    "https://www.bankingfinance.in/reserve-bank-updates-for-august-2026.html",
+    "https://www.bankingfinance.in/reserve-bank-news-for-september-2026.html",
+    "https://www.indiainfoline.com/news/economy/rbi-policy-update-august-2026-repo-rate-unchanged-at-5-25-fy27-gdp-growth-raised-to-6-7-inflation-forecast-cut",
+    "https://www.forbesindia.com/article/forbesindiablogs/rbi-mpc-june-2026-live-repo-rate-decision-governor-sanjay-malhotra-gdp-data-updates-liveblog/2994645/1",
+    "https://www.practicemock.com/blog/rbi-monetary-policy-april-2026-repo-rate-mpc/",
+    "https://www.5paisa.com/blog/rbi-mpc-meeting-schedule",
+    "https://www.business-standard.com/industry/banking/rbi-finalises-fraud-compensation-framework-for-victims-of-digital-fraud-126062401240_1.html",
+    "https://www.angelone.in/news/personal-finance/rbi-to-roll-out-new-integrated-ombudsman-scheme-from-july-1-2026-what-bank-customers-should-know",
+    "https://www.business-standard.com/industry/banking/bankers-books-evidence-act-2026-to-come-into-force-from-october-1-126091100749_1.html",
+    "https://www.scconline.com/blog/post/2026/09/16/npci-released-upi-mdr-faqs-explained/",
+    "https://www.business-standard.com/finance/news/upi-transactions-august-2026-record-volume-npci-126090100506_1.html",
+    "https://www.businessworld.in/article/lic-gets-rbi-nod-to-raise-icici-bank-stake-to-9-99-623797",
+    "https://www.thestatesman.com/business/rbi-expands-upper-layer-nbfc-list-to-17-for-fy27-retains-tata-sons-status-1503625214.html",
+    "https://www.retailbankerinternational.com/news/paytm-payments-bank-set-for-winding-up-after-rbi-licence-revocation/",
+    "https://www.angelone.in/news/economy/rohit-jain-appointed-rbi-deputy-governor-for-3-year-term-from-may-3-2026",
+    "https://www.business-standard.com/finance/news/rbi-appoints-suman-ray-as-executive-director-with-effect-from-september-1-126090101035_1.html",
+    "https://www.business-standard.com/economy/news/rbi-to-transfer-record-rs-2-87-trillion-dividend-to-govt-for-fy26-126052201017_1.html",
+    "https://www.drishtiias.com/daily-updates/daily-news-analysis/rbi-annual-report-2025-26",
+    "https://www.business-standard.com/amp/markets/capital-market-news/india-s-gdp-expands-7-8-in-q1fy27-nominal-growth-tops-10-126083101003_1.html",
+    "https://www.indexbox.io/blog/indias-retail-inflation-eases-to-482-in-august-2026/",
+    "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2226269&reg=3&lang=2",
+    "https://www.multibagg.ai/market-pulse/articles/union-budget-2026-highlights-capex-cml3k9hvq008bqm0jjncbhbtv",
+    "https://www.businesstoday.in/union-budget/news/story/economic-survey-2026-live-fy27-gdp-growth-projected-at-68-72-all-eyes-on-union-budget-now-513435-2026-01-29",
+    "https://www.pmindia.gov.in/en/news_updates/cabinet-approves-enhancement-of-epfo-wage-ceiling-from-rs-15000-to-rs-25000-per-month/",
+    "https://www.sebi.gov.in/media-and-notifications/press-releases/sep-2026/key-decisions-taken-in-the-sebi-board-meeting-dated-24th-september-2026_104725.html",
+    "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2206011&reg=3&lang=1",
+    "https://www.cenfa.org/risk-based-premium-for-deposit-insurance-what-it-means-for-banks/",
+    "https://www.businessworld.in/article/rbi-proposes-rs-300-cr-net-worth-rs-10-000-cr-deposit-norms-for-new-ucb-licences-618164",
+    "https://testbook.com/news/plastic-currency-in-india-2026-government-approves-rbis-polymer-note-trial/",
+    "https://www.business-standard.com/companies/news/hdfc-bank-md-ceo-shortlist-two-names-rbi-sashidhar-jagdishan-successor-126091200618_1.html",
+    "https://www.kosamattam.com/blogs/rbi-gold-loan-rules-2026/",
+    "https://currentaffairs.adda247.com/government-schemes/",
+    "https://indianmasterminds.com/news/psu-bank-mergers-2026-india-mega-banking-reforms-172510/"
+   ]
+  }
+ ]
+}

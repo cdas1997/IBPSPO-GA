@@ -1,0 +1,394 @@
+{
+ "batches": [
+  {
+   "key": "digital-cyber",
+   "name": "Digital & Cyber Awareness",
+   "questions": [
+    {
+     "q": "Under the RBI's revised framework on limiting customer liability in fraudulent electronic banking transactions, notified on 24 June 2026 and effective for transactions from 1 January 2027, a customer has zero liability for a fraud caused by a third-party breach if it is reported to the bank within:",
+     "options": [
+      "3 working days",
+      "5 calendar days",
+      "7 working days",
+      "10 calendar days"
+     ],
+     "answer": "B",
+     "explanation": "RBI's Responsible Business Conduct Third Amendment Directions (24 Jun 2026, effective 1 Jan 2027) replace the 2017 '3 working days' rule with 5 calendar days for a third-party breach. If the bank was negligent, liability is zero even when the fraud is not reported (Lexology / MediaNama / Upstox, Jun 2026).",
+     "likely": 5
+    },
+    {
+     "q": "Under the same revised RBI framework (effective 1 January 2027), within how many calendar days must a bank resolve a customer's complaint about a fraudulent electronic banking transaction that is domestic, and one that is cross-border?",
+     "options": [
+      "90 days for both",
+      "30 days and 45 days",
+      "60 days and 90 days",
+      "45 days and 60 days"
+     ],
+     "answer": "D",
+     "explanation": "Final Directions of 24 Jun 2026: banks must examine the complaint, fix liability and respond within 45 calendar days for domestic fraud and 60 for cross-border fraud. The 2017 circular allowed up to 90 days (MediaNama / Business Standard / Ujjivan SFB, Jun 2026).",
+     "likely": 4
+    },
+    {
+     "q": "Under the RBI's customer-liability framework first issued in July 2017, which still applies to electronic banking transactions up to 31 December 2026, what is the maximum liability of a Basic Savings Bank Deposit (BSBD) account holder who reports a third-party-breach fraud within 4 to 7 working days?",
+     "options": [
+      "Rs 10,000",
+      "Rs 25,000",
+      "Rs 5,000",
+      "Rs 2,500"
+     ],
+     "answer": "C",
+     "explanation": "RBI circular of 6 Jul 2017 (Table 1): the caps are Rs 5,000 for BSBD accounts, Rs 10,000 for other savings accounts, PPIs and credit cards with limits up to Rs 5 lakh, and Rs 25,000 for other current/CC/OD accounts and cards above Rs 5 lakh (rbi.org.in).",
+     "likely": 2
+    },
+    {
+     "q": "The National Cyber Crime Helpline '1930' and the National Cybercrime Reporting Portal (cybercrime.gov.in), where victims of online financial fraud should report at once, are operated by:",
+     "options": [
+      "Indian Cyber Crime Coordination Centre (I4C), Ministry of Home Affairs",
+      "CERT-In, Ministry of Electronics and IT",
+      "National Crime Records Bureau (NCRB)",
+      "Digital Intelligence Unit, Department of Telecommunications"
+     ],
+     "answer": "A",
+     "explanation": "The MHA's I4C runs the NCRP (cybercrime.gov.in, launched 30 Aug 2019) and the 24x7 helpline 1930. Its Citizen Financial Cyber Fraud Reporting and Management System links banks and wallets so that stolen funds can be frozen quickly (I4C / Wikipedia).",
+     "likely": 3
+    },
+    {
+     "q": "'Chakshu', a facility for citizens to report suspected fraud communication received by call, SMS or WhatsApp (such as fake KYC-update or bank-impersonation messages), is available on which platform?",
+     "options": [
+      "Sachet portal of the RBI",
+      "National Cybercrime Reporting Portal of I4C",
+      "Sanchar Saathi portal of the Department of Telecommunications",
+      "CPGRAMS of DARPG"
+     ],
+     "answer": "C",
+     "explanation": "Ashwini Vaishnaw launched Chakshu on the DoT's Sanchar Saathi portal on 4 Mar 2024, together with the DoT's Digital Intelligence Platform. The RBI's Sachet portal handles complaints about illegal deposit-taking (Business Today / Moneylife, Mar 2024).",
+     "likely": 3
+    },
+    {
+     "q": "The Department of Telecommunications introduced the 'Financial Fraud Risk Indicator (FRI)' in May 2025, and the RBI later advised banks to integrate it. Which of the following is NOT one of the risk categories FRI assigns to a mobile number?",
+     "options": [
+      "Medium",
+      "High",
+      "Very High",
+      "Low"
+     ],
+     "answer": "D",
+     "explanation": "The FRI from the DoT's Digital Intelligence Unit tags mobile numbers as Medium, High or Very High risk using inputs from NCRP, Chakshu and banks. The RBI advised banks to integrate it on 30 Jun 2025 (PIB / Business Standard, 2025).",
+     "likely": 2.5
+    },
+    {
+     "q": "Under CERT-In's cyber security directions of 28 April 2022, issued under Section 70B(6) of the IT Act, 2000, service providers, intermediaries, data centres and body corporates must keep logs of all their ICT systems, within Indian jurisdiction, for a rolling period of:",
+     "options": [
+      "180 days",
+      "90 days",
+      "1 year",
+      "2 years"
+     ],
+     "answer": "A",
+     "explanation": "The CERT-In directions of 28 Apr 2022 require cyber incidents to be reported within 6 hours and ICT logs to be kept securely in India for 180 days (Lexology / Internet Society).",
+     "likely": 2
+    },
+    {
+     "q": "Under the RBI's card-on-file tokenisation (CoFT) norms, effective 1 October 2022, which entities alone may store actual card data, such as the full card number, for card transactions?",
+     "options": [
+      "Merchants, with the customer's explicit consent",
+      "Card issuers and card networks",
+      "Payment aggregators and acquiring banks",
+      "PCI-DSS-certified payment gateways"
+     ],
+     "answer": "B",
+     "explanation": "From 1 Oct 2022, no entity in the card-payment chain other than card issuers and card networks may store CoF data. Merchants had to purge stored card data and switch to tokens, and this rule is unchanged in 2026 (RBI CoFT norms; HDFC Bank / Ujjivan SFB).",
+     "likely": 2
+    },
+    {
+     "q": "To curb fraud, NPCI discontinued which UPI feature with effect from 1 October 2025?",
+     "options": [
+      "UPI AutoPay mandates for recurring payments",
+      "Merchant (P2M) collect requests at e-commerce checkout",
+      "UPI Lite wallet top-ups",
+      "Person-to-person (P2P) collect requests"
+     ],
+     "answer": "D",
+     "explanation": "NPCI's circular of 29 Jul 2025 stopped P2P 'collect' (pull) requests on UPI from 1 Oct 2025, because fraudsters used them to trick users into approving payments. Merchant collect requests continue (MediaNama / Outlook Money).",
+     "likely": 3
+    },
+    {
+     "q": "To help customers tell genuine bank calls from fraud calls, the RBI in January 2025 directed banks and other regulated entities to make transactional and service voice calls to customers only from which number series?",
+     "options": [
+      "1600xx",
+      "140xx",
+      "1800xx",
+      "1860xx"
+     ],
+     "answer": "A",
+     "explanation": "RBI circular of 17 Jan 2025 (in line with TRAI rules): the 1600xx series for transactional and service calls and the 140 series for promotional calls, with compliance due by 31 Mar 2025. Banks must also clean their databases using the DoT's Mobile Number Revocation List (MediaNama / Lexology).",
+     "likely": 3
+    },
+    {
+     "q": "'DigiKavach', an early-warning programme to detect and counter online financial frauds and scams in India, announced in 2023, is an initiative of which company?",
+     "options": [
+      "Meta",
+      "Microsoft",
+      "Google",
+      "Reserve Bank Innovation Hub"
+     ],
+     "answer": "C",
+     "explanation": "Google announced DigiKavach at Google for India in Oct 2023 and partnered with FACE (Fintech Association for Consumer Empowerment) against predatory loan apps (Entrackr / MediaNama, Oct 2023).",
+     "likely": 1.5
+    },
+    {
+     "q": "The RBI's Master Directions on Fraud Risk Management (15 July 2024) followed the Supreme Court's ruling in SBI v. Rajesh Agarwal. Before a bank classifies a borrower's account as fraud, it must issue a detailed show-cause notice and give the borrower at least how many days to respond?",
+     "options": [
+      "15 days",
+      "21 days",
+      "30 days",
+      "7 days"
+     ],
+     "answer": "B",
+     "explanation": "The Jul 2024 Directions require a detailed show-cause notice with a reply period of at least 21 days, followed by a reasoned order, which applies natural justice. RBI's current Fraud Risk Management Directions (2026) keep the 21-day minimum (BW Legal World, 2024; RMA India, 2026).",
+     "likely": 2.5
+    },
+    {
+     "q": "On 1 December 2025, a Supreme Court bench led by CJI Surya Kant entrusted which agency with a pan-India investigation into 'digital arrest' scams, including the role of bank staff in opening mule accounts?",
+     "options": [
+      "National Investigation Agency (NIA)",
+      "Enforcement Directorate (ED)",
+      "Indian Cyber Crime Coordination Centre (I4C)",
+      "Central Bureau of Investigation (CBI)"
+     ],
+     "answer": "D",
+     "explanation": "On 1 Dec 2025, the SC (CJI Surya Kant and Justice Joymalya Bagchi) handed the pan-India digital-arrest probe to the CBI, allowed action against bank officials over mule accounts, and asked the RBI whether AI/ML could be used to freeze such accounts (Business Standard / MediaNama, Dec 2025).",
+     "likely": 3
+    },
+    {
+     "q": "Following a Supreme Court order of 4 August 2026, the RBI issued a draft SOP in September 2026 for banks to place temporary debit holds on suspected money-mule accounts or transactions. Unless a law enforcement agency instructs otherwise, what is the maximum duration of such a hold?",
+     "options": [
+      "30 days",
+      "45 days",
+      "60 days",
+      "90 days"
+     ],
+     "answer": "C",
+     "explanation": "The draft amendment to the KYC Directions (11 Sep 2026) covers flagged transactions of Rs 1,000 or more, gives customers 20 days to explain, and caps holds at 60 days unless an LEA instructs otherwise. The proposed effective date is 1 Apr 2027 (MediaNama / Business Standard, Sep 2026).",
+     "likely": 5
+    },
+    {
+     "q": "The RBI's April 2026 discussion paper 'Exploring Safeguards in Digital Payments to Curb Frauds' proposed a cooling period for account-to-account transfers above Rs 10,000, during which the payer can cancel the payment. How long is the proposed cooling period?",
+     "options": [
+      "One hour",
+      "30 minutes",
+      "Four hours",
+      "24 hours"
+     ],
+     "answer": "A",
+     "explanation": "The RBI discussion paper of 10 Apr 2026 (comments due by 8 May 2026) proposed a 1-hour hold on transfers over Rs 10,000 and 'trusted person' approval above Rs 50,000 for people aged 70+ and persons with disabilities. Frauds reached 28 lakh cases worth Rs 22,931 crore in 2025 (Business Standard / Swarajya, Apr 2026).",
+     "likely": 3.5
+    },
+    {
+     "q": "Which of the following fraud types is INCORRECTLY matched with its modus operandi?",
+     "options": [
+      "Vishing - a fraudster phones the victim posing as a bank or KYC official to extract an OTP or card details",
+      "SIM swap - a fraudster persuades the victim to install a screen-sharing app to read OTPs on the victim's phone",
+      "Juice jacking - malware is planted or data is stolen through a compromised public USB charging port",
+      "Smishing - a fake SMS carries a malicious link or a spoofed 'account blocked' alert"
+     ],
+     "answer": "B",
+     "explanation": "In a SIM swap the fraudster gets a duplicate SIM for the victim's number and receives the OTPs. Tricking a victim into a screen-sharing app is remote-access fraud. The RBI's BE(A)WARE booklet (7 Mar 2022) lists both separately (RBI / Factly).",
+     "likely": 3
+    },
+    {
+     "q": "In June 2026, the Reserve Bank of India recognised which entity as the Self-Regulatory Organisation (SRO) for the Account Aggregator (AA) ecosystem?",
+     "options": [
+      "Fintech Association for Consumer Empowerment (FACE)",
+      "Digital Lenders Association of India (DLAI)",
+      "Sahamati Foundation",
+      "Payments Council of India"
+     ],
+     "answer": "C",
+     "explanation": "RBI recognised Sahamati as the AA-ecosystem SRO on 5 Jun 2026, under its SRO framework of 12 Mar 2025. The ecosystem has 17 operational Account Aggregators. FACE is the RBI-recognised fintech SRO (Business Standard / Sahamati, Jun 2026).",
+     "likely": 4.5
+    },
+    {
+     "q": "Under the RBI (Digital Lending) Directions, 2025, what is the cap on Default Loss Guarantee (DLG) cover, and within what overdue period must the lender invoke it?",
+     "options": [
+      "5% of the loan portfolio; within 120 days of overdue",
+      "5% of the loan portfolio; within 90 days of overdue",
+      "10% of the loan portfolio; within 120 days of overdue",
+      "15% of the loan portfolio; within 90 days of overdue"
+     ],
+     "answer": "A",
+     "explanation": "The Directions of 8 May 2025 cap total DLG cover at 5% of the amount disbursed from the loan portfolio. The lender must invoke it within 120 days of overdue, and an invoked DLG cannot be reinstated (Argus Partners / Mondaq, 2025).",
+     "likely": 3
+    },
+    {
+     "q": "Under the RBI (Digital Lending) Directions, 2025, what is the minimum 'cooling-off' period during which a borrower can exit a digital loan without penalty?",
+     "options": [
+      "At least 3 days for all digital loans",
+      "At least 3 days for loans with a tenor of 7 days or more, and 1 day for shorter loans",
+      "At least 7 days for loans above ₹50,000",
+      "At least 1 day, irrespective of loan tenor"
+     ],
+     "answer": "D",
+     "explanation": "The 2025 Directions set a uniform minimum of 1 day for all loans, and each lender's Board fixes the exact period. The 2022 guidelines had required 3 days for loans with a tenor of 7 days or more (Argus Partners / Mondaq, 2025).",
+     "likely": 2.5
+    },
+    {
+     "q": "RBI's public directory of Digital Lending Apps (DLAs) on its website is compiled from details that regulated entities report through which RBI portal?",
+     "options": [
+      "DAKSH",
+      "Centralised Information Management System (CIMS)",
+      "PRAVAAH",
+      "Sachet"
+     ],
+     "answer": "B",
+     "explanation": "Regulated entities had to report their DLAs on RBI's CIMS portal (open from 13 May 2025) by 15 Jun 2025. The public DLA directory went live on the RBI website on 1 Jul 2025 (Business Standard / MediaNama, May 2025).",
+     "likely": 2.5
+    },
+    {
+     "q": "Under RBI's Key Facts Statement (KFS) instructions, which apply to all retail and MSME term loans sanctioned on or after 1 October 2024, what is the minimum validity period of the KFS for a loan with a tenor of 7 days or more?",
+     "options": [
+      "1 working day",
+      "5 working days",
+      "3 working days",
+      "7 working days"
+     ],
+     "answer": "C",
+     "explanation": "RBI circular of 15 Apr 2024: the KFS must be valid for at least 3 working days for loans with a tenor of 7 days or more, and 1 working day for loans shorter than 7 days (RBI / TaxGuru).",
+     "likely": 2
+    },
+    {
+     "q": "Under the RBI (Regulation of Payment Aggregators) Directions, 2025, what is the maximum value per transaction for inward or outward (export/import) payments processed by a Payment Aggregator - Cross Border (PA-CB)?",
+     "options": [
+      "₹25 lakh",
+      "₹10 lakh",
+      "₹15 lakh",
+      "₹50 lakh"
+     ],
+     "answer": "A",
+     "explanation": "The Directions of 15 Sep 2025 cap each PA-CB transaction at ₹25 lakh. Non-bank PAs need a net worth of ₹15 crore at application and ₹25 crore by the third year (Winvesta / Lexology, 2025).",
+     "likely": 3
+    },
+    {
+     "q": "UPI 123PAY is NPCI's UPI service for feature-phone users, with a per-transaction limit of ₹10,000. Which of the following is NOT one of its payment modes?",
+     "options": [
+      "Calling an IVR number",
+      "NFC tap-and-pay on a POS terminal",
+      "Giving a missed call",
+      "Proximity sound-based payments"
+     ],
+     "answer": "B",
+     "explanation": "UPI 123PAY (launched Mar 2022) has four modes: IVR, app-based pay on feature phones, missed call and proximity sound-based payments. NPCI circular OC-209 (25 Oct 2024) raised its limit from ₹5,000 to ₹10,000. NFC tap is a UPI Lite X feature (NPCI / Digital India).",
+     "likely": 3
+    },
+    {
+     "q": "Under full delegation in NPCI's 'UPI Circle', what are the maximum monthly limit and per-transaction limit for payments by a secondary user?",
+     "options": [
+      "₹10,000 per month; ₹2,000 per transaction",
+      "₹25,000 per month; ₹5,000 per transaction",
+      "₹15,000 per month; ₹10,000 per transaction",
+      "₹15,000 per month; ₹5,000 per transaction"
+     ],
+     "answer": "D",
+     "explanation": "UPI Circle launched at GFF in Aug 2024. A primary user can add up to 5 secondary users, and full delegation is capped at ₹15,000 a month and ₹5,000 per transaction (NPCI / Paytm / PhonePe).",
+     "likely": 3
+    },
+    {
+     "q": "Which of the following statements about India's payment systems is NOT correct?",
+     "options": [
+      "NEFT settles transactions in 48 half-hourly batches every day",
+      "RTGS has been available 24x7x365 since 14 December 2020",
+      "IMPS and NACH are owned and operated by the Reserve Bank of India",
+      "The per-transaction limit for IMPS is ₹5 lakh"
+     ],
+     "answer": "C",
+     "explanation": "IMPS and NACH are NPCI systems; the RBI operates RTGS and NEFT. NEFT has run 24x7 in 48 half-hourly batches since 16 Dec 2019, and in Oct 2021 the RBI raised the IMPS limit from ₹2 lakh to ₹5 lakh (RBI / Business Standard).",
+     "likely": 3
+    },
+    {
+     "q": "RBI required all banks in RTGS and NEFT to offer a free beneficiary account name look-up facility by 1 April 2025. Which entity was tasked with developing this facility?",
+     "options": [
+      "National Payments Corporation of India (NPCI)",
+      "Institute for Development and Research in Banking Technology (IDRBT)",
+      "Clearing Corporation of India Ltd (CCIL)",
+      "Reserve Bank Information Technology Pvt Ltd (ReBIT)"
+     ],
+     "answer": "A",
+     "explanation": "RBI circular of 30 Dec 2024 tasked NPCI with developing the facility and onboarding banks. It fetches the beneficiary's name from the account number and IFSC, free of charge (RBI / Probe42 / Business Standard).",
+     "likely": 2
+    },
+    {
+     "q": "The NHAI's FASTag Annual Pass for non-commercial vehicles (valid for 1 year or 200 toll crossings) was launched on 15 August 2025 at ₹3,000. What is its fee for FY 2026-27, effective 1 April 2026?",
+     "options": [
+      "₹3,000",
+      "₹3,150",
+      "₹3,075",
+      "₹3,500"
+     ],
+     "answer": "C",
+     "explanation": "On 15 Mar 2026, NHAI announced that the fee would rise from ₹3,000 to ₹3,075 (2.5%) from 1 Apr 2026, under the NH Fee Rules, 2008 (All India Radio / The Tribune, Mar 2026).",
+     "likely": 2.5
+    },
+    {
+     "q": "According to the RBI Annual Report 2025-26, what was the value of retail digital rupee (e₹-R) in circulation on 31 March 2026?",
+     "options": [
+      "₹1,016.46 crore",
+      "₹771.66 crore",
+      "₹5,101 crore",
+      "₹234.04 crore"
+     ],
+     "answer": "B",
+     "explanation": "RBI Annual Report 2025-26 (29 May 2026): e₹-R fell about 24%, from ₹1,016.46 crore on 31 Mar 2025. Wholesale e₹-W stood at nil on both dates (Business Standard / Business Upturn, May 2026).",
+     "likely": 4
+    },
+    {
+     "q": "Under RBI's directions on due diligence of AePS Touchpoint Operators (ATOs), effective 1 January 2026, acquiring banks must carry out fresh KYC of an ATO that has not performed any transaction for a continuous period of:",
+     "options": [
+      "1 month",
+      "6 months",
+      "12 months",
+      "3 months"
+     ],
+     "answer": "D",
+     "explanation": "RBI directions of 27 Jun 2025 (effective 1 Jan 2026): an ATO that has been inactive for 3 consecutive months must be re-KYC'd before it can resume. Banks must also monitor ATO transactions (TaxGuru / Business Standard, 2025).",
+     "likely": 3
+    },
+    {
+     "q": "The Central KYC Records Registry (CKYCR) is operated by ______, and the KYC Identifier Number (KIN) it gives each customer has ______ digits.",
+     "options": [
+      "CERSAI; 14",
+      "UIDAI; 12",
+      "NSDL; 14",
+      "CERSAI; 16"
+     ],
+     "answer": "A",
+     "explanation": "CERSAI runs the CKYCR for the Government under the PMLA and its Rules. Each customer gets a 14-digit KIN that can be reused for KYC across banks, insurers and mutual funds (CERSAI / HDFC MF).",
+     "likely": 3
+    },
+    {
+     "q": "Under RBI's 'Digital Payments - E-mandate Framework, 2026' (April 2026), recurring e-mandate debits up to ₹15,000 need no additional factor of authentication. For mutual fund subscriptions, insurance premiums and credit card bill payments, this relaxed limit is:",
+     "options": [
+      "₹50,000",
+      "₹1 lakh",
+      "₹2 lakh",
+      "₹5 lakh"
+     ],
+     "answer": "B",
+     "explanation": "The framework was issued on 21 Apr 2026 for cards, PPIs and UPI. It allows e-mandate debits without AFA up to ₹15,000 generally and ₹1 lakh for MF, insurance and credit card bills, with a pre-debit alert at least 24 hours before each debit (SCC Online / KPMG, 2026).",
+     "likely": 4
+    },
+    {
+     "q": "What is the theme of the RBI's 'Payments Vision 2028', released on 27 March 2026?",
+     "options": [
+      "E-Payments for Everyone, Everywhere, Everytime",
+      "Empowering Exceptional (E)payment Experience",
+      "Secure and Seamless Payments for Viksit Bharat",
+      "Shaping India's Payment Frontier"
+     ],
+     "answer": "D",
+     "explanation": "Released on 27 Mar 2026, it sets out 15 initiatives up to Dec 2028, such as electronic cheques and switching digital payment modes on or off. 'E-Payments for Everyone, Everywhere, Everytime' was the theme of Payments Vision 2025 (RBI / Onmanorama, Mar 2026).",
+     "likely": 3.5
+    }
+   ]
+  }
+ ]
+}

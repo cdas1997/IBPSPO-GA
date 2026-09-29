@@ -1,0 +1,21 @@
+{
+ "bankSha256": "f13b71ad7e06593cb8833916040ca834cd44e6eb51453cbb6751342524a2dad2",
+ "keys": [
+  "likely",
+  "sep-2026",
+  "aug-2026",
+  "jul-2026",
+  "rbi-policy",
+  "rbi-circulars",
+  "banking-ca",
+  "budget",
+  "economy",
+  "digital",
+  "digital-cyber",
+  "schemes",
+  "financial-regulators",
+  "static-banking",
+  "misc",
+  "topup"
+ ]
+}
